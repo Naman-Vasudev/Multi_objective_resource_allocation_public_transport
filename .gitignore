@@ -18,9 +18,8 @@ Thumbs.db
 .vscode/
 *.swp
 
-# Heavy raw media files
+# Heavy raw audio/temp
 *.mp3
 *.m4a
-*.mkv
 video/
 *.tmp
