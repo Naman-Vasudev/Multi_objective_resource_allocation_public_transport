@@ -1,0 +1,171 @@
+route_no,x0,x_new,delta,ref_period,headway_base,headway_new,peak_LF_base,need_base,M_ref,reason_type,reason,direction,scenario,fmax_mode,alpha
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-PASSENGER,published,0.5
+213,4,5,1,AM,52.38095238095238,50.0,1.246698093852852,3.894545454545455,85.68215990479602,demand,overcrowded at baseline (peak LF 1.25): headway 52→50 min,gain,P-PASSENGER,published,0.5
+76,4,5,1,AM,34.285714285714285,40.0,0.7029425457387372,5.425000000000001,73.8089673025674,supply,baseline short of buses for its own timetable (f·τ = 5.43 > 4),gain,P-PASSENGER,published,0.5
+25/25A,5,6,1,AM,26.666666666666668,30.0,0.599394587796658,6.03,80.91826935254883,supply,baseline short of buses for its own timetable (f·τ = 6.03 > 5),gain,P-PASSENGER,published,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-PASSENGER,published,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-PASSENGER,published,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-PASSENGER,published,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-PASSENGER,published,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-PASSENGER,published,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-PASSENGER,published,0.5
+32,14,12,-2,AM,20.0,20.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-PASSENGER,published,0.5
+23A,6,5,-1,AM,20.0,20.0,0.21806634725357707,3.8400000000000007,39.251942505643875,supply,surplus buses: x0 = 6 vs f·τ = 3.84 at baseline frequency,lose,P-PASSENGER,published,0.5
+35,7,6,-1,AM,20.0,20.0,0.25129306527391854,5.490000000000001,45.232751749305336,supply,surplus buses: x0 = 7 vs f·τ = 5.49 at baseline frequency,lose,P-PASSENGER,published,0.5
+17,6,5,-1,AM,20.0,20.0,0.2517884356184658,4.65,45.32191841132385,supply,surplus buses: x0 = 6 vs f·τ = 4.65 at baseline frequency,lose,P-PASSENGER,published,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-OPERATOR,published,0.5
+213,4,5,1,AM,52.38095238095238,50.0,1.246698093852852,3.894545454545455,85.68215990479602,demand,overcrowded at baseline (peak LF 1.25): headway 52→50 min,gain,P-OPERATOR,published,0.5
+76,4,5,1,AM,34.285714285714285,40.0,0.7029425457387372,5.425000000000001,73.8089673025674,supply,baseline short of buses for its own timetable (f·τ = 5.43 > 4),gain,P-OPERATOR,published,0.5
+25/25A,5,6,1,AM,26.666666666666668,30.0,0.599394587796658,6.03,80.91826935254883,supply,baseline short of buses for its own timetable (f·τ = 6.03 > 5),gain,P-OPERATOR,published,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-OPERATOR,published,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-OPERATOR,published,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-OPERATOR,published,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-OPERATOR,published,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-OPERATOR,published,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-OPERATOR,published,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-OPERATOR,published,0.5
+32,14,12,-2,AM,20.0,20.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-OPERATOR,published,0.5
+23A,6,5,-1,AM,20.0,20.0,0.21806634725357707,3.8400000000000007,39.251942505643875,supply,surplus buses: x0 = 6 vs f·τ = 3.84 at baseline frequency,lose,P-OPERATOR,published,0.5
+35,7,6,-1,AM,20.0,20.0,0.25129306527391854,5.490000000000001,45.232751749305336,supply,surplus buses: x0 = 7 vs f·τ = 5.49 at baseline frequency,lose,P-OPERATOR,published,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-EQUITY,published,0.5
+213,4,5,1,AM,52.38095238095238,50.0,1.246698093852852,3.894545454545455,85.68215990479602,demand,overcrowded at baseline (peak LF 1.25): headway 52→50 min,gain,P-EQUITY,published,0.5
+76,4,5,1,AM,34.285714285714285,40.0,0.7029425457387372,5.425000000000001,73.8089673025674,supply,baseline short of buses for its own timetable (f·τ = 5.43 > 4),gain,P-EQUITY,published,0.5
+25/25A,5,6,1,AM,26.666666666666668,30.0,0.599394587796658,6.03,80.91826935254883,supply,baseline short of buses for its own timetable (f·τ = 6.03 > 5),gain,P-EQUITY,published,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-EQUITY,published,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-EQUITY,published,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-EQUITY,published,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-EQUITY,published,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-EQUITY,published,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-EQUITY,published,0.5
+32,14,12,-2,AM,20.0,20.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-EQUITY,published,0.5
+23A,6,5,-1,AM,20.0,20.0,0.21806634725357707,3.8400000000000007,39.251942505643875,supply,surplus buses: x0 = 6 vs f·τ = 3.84 at baseline frequency,lose,P-EQUITY,published,0.5
+35,7,6,-1,AM,20.0,20.0,0.25129306527391854,5.490000000000001,45.232751749305336,supply,surplus buses: x0 = 7 vs f·τ = 5.49 at baseline frequency,lose,P-EQUITY,published,0.5
+17,6,5,-1,AM,20.0,20.0,0.2517884356184658,4.65,45.32191841132385,supply,surplus buses: x0 = 6 vs f·τ = 4.65 at baseline frequency,lose,P-EQUITY,published,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-BALANCED,published,0.5
+213,4,5,1,AM,52.38095238095238,50.0,1.246698093852852,3.894545454545455,85.68215990479602,demand,overcrowded at baseline (peak LF 1.25): headway 52→50 min,gain,P-BALANCED,published,0.5
+76,4,5,1,AM,34.285714285714285,40.0,0.7029425457387372,5.425000000000001,73.8089673025674,supply,baseline short of buses for its own timetable (f·τ = 5.43 > 4),gain,P-BALANCED,published,0.5
+25/25A,5,6,1,AM,26.666666666666668,30.0,0.599394587796658,6.03,80.91826935254883,supply,baseline short of buses for its own timetable (f·τ = 6.03 > 5),gain,P-BALANCED,published,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-BALANCED,published,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-BALANCED,published,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-BALANCED,published,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-BALANCED,published,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-BALANCED,published,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-BALANCED,published,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-BALANCED,published,0.5
+32,14,12,-2,AM,20.0,20.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-BALANCED,published,0.5
+23A,6,5,-1,AM,20.0,20.0,0.21806634725357707,3.8400000000000007,39.251942505643875,supply,surplus buses: x0 = 6 vs f·τ = 3.84 at baseline frequency,lose,P-BALANCED,published,0.5
+35,7,6,-1,AM,20.0,20.0,0.25129306527391854,5.490000000000001,45.232751749305336,supply,surplus buses: x0 = 7 vs f·τ = 5.49 at baseline frequency,lose,P-BALANCED,published,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,CHEBYSHEV,published,0.5
+213,4,5,1,AM,52.38095238095238,50.0,1.246698093852852,3.894545454545455,85.68215990479602,demand,overcrowded at baseline (peak LF 1.25): headway 52→50 min,gain,CHEBYSHEV,published,0.5
+76,4,5,1,AM,34.285714285714285,40.0,0.7029425457387372,5.425000000000001,73.8089673025674,supply,baseline short of buses for its own timetable (f·τ = 5.43 > 4),gain,CHEBYSHEV,published,0.5
+25/25A,5,6,1,AM,26.666666666666668,30.0,0.599394587796658,6.03,80.91826935254883,supply,baseline short of buses for its own timetable (f·τ = 6.03 > 5),gain,CHEBYSHEV,published,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,CHEBYSHEV,published,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,CHEBYSHEV,published,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,CHEBYSHEV,published,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,CHEBYSHEV,published,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,CHEBYSHEV,published,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,CHEBYSHEV,published,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,CHEBYSHEV,published,0.5
+32,14,12,-2,AM,20.0,20.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,CHEBYSHEV,published,0.5
+23A,6,5,-1,AM,20.0,20.0,0.21806634725357707,3.8400000000000007,39.251942505643875,supply,surplus buses: x0 = 6 vs f·τ = 3.84 at baseline frequency,lose,CHEBYSHEV,published,0.5
+35,7,6,-1,AM,20.0,20.0,0.25129306527391854,5.490000000000001,45.232751749305336,supply,surplus buses: x0 = 7 vs f·τ = 5.49 at baseline frequency,lose,CHEBYSHEV,published,0.5
+31,3,4,1,AM,80.0,60.0,2.449172815705542,2.7750000000000004,110.2127767067494,demand,overcrowded at baseline (peak LF 2.45): headway 80→60 min,gain,P-PASSENGER,relaxed,0.5
+28A,2,3,1,Midday,80.0,60.0,2.171141311083578,1.725,55.82934799929201,demand,overcrowded at baseline (peak LF 2.17): headway 80→60 min,gain,P-PASSENGER,relaxed,0.5
+101,2,3,1,Midday,80.0,60.0,2.0692487983917087,1.7999999999999998,53.20925481578681,demand,overcrowded at baseline (peak LF 2.07): headway 80→60 min,gain,P-PASSENGER,relaxed,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-PASSENGER,relaxed,0.5
+70A,3,4,1,AM,60.0,45.0,1.4583199339213222,2.75,87.49919603527933,demand,overcrowded at baseline (peak LF 1.46): headway 60→45 min,gain,P-PASSENGER,relaxed,0.5
+8,2,3,1,AM,75.0,45.0,1.3907440987551907,1.6800000000000002,66.75571674024916,demand,overcrowded at baseline (peak LF 1.39): headway 75→45 min,gain,P-PASSENGER,relaxed,0.5
+213,4,5,1,PM,52.38095238095238,45.0,1.246698093852852,3.894545454545455,79.56200562588202,demand,overcrowded at baseline (peak LF 1.25): headway 52→45 min,gain,P-PASSENGER,relaxed,0.5
+214,6,7,1,AM,35.0,30.0,1.1354378200423068,5.314285714285715,116.7878900614944,demand,overcrowded at baseline (peak LF 1.14): headway 35→30 min,gain,P-PASSENGER,relaxed,0.5
+79,4,5,1,PM,45.0,40.0,1.1319514223461593,3.7199999999999998,84.08781994571468,demand,overcrowded at baseline (peak LF 1.13): headway 45→40 min,gain,P-PASSENGER,relaxed,0.5
+20A,3,4,1,AM,60.0,40.0,1.065662303091468,2.5600000000000005,63.93973818548808,demand,overcrowded at baseline (peak LF 1.07): headway 60→40 min,gain,P-PASSENGER,relaxed,0.5
+32,14,11,-3,AM,20.0,25.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-PASSENGER,relaxed,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-PASSENGER,relaxed,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-PASSENGER,relaxed,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-PASSENGER,relaxed,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-PASSENGER,relaxed,0.5
+38AB,8,6,-2,AM,22.22222222222222,25.0,0.34898611107370237,5.940000000000001,56.53574999393978,demand,spare capacity (peak LF 0.35): headway 22→25 min,lose,P-PASSENGER,relaxed,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-PASSENGER,relaxed,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-PASSENGER,relaxed,0.5
+5C,8,6,-2,AM,20.0,20.0,0.6129019445787637,5.760000000000001,110.32235002417747,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-PASSENGER,relaxed,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-PASSENGER,relaxed,0.5
+31,3,4,1,AM,80.0,60.0,2.449172815705542,2.7750000000000004,110.2127767067494,demand,overcrowded at baseline (peak LF 2.45): headway 80→60 min,gain,P-OPERATOR,relaxed,0.5
+28A,2,3,1,Midday,80.0,60.0,2.171141311083578,1.725,55.82934799929201,demand,overcrowded at baseline (peak LF 2.17): headway 80→60 min,gain,P-OPERATOR,relaxed,0.5
+101,2,3,1,Midday,80.0,60.0,2.0692487983917087,1.7999999999999998,53.20925481578681,demand,overcrowded at baseline (peak LF 2.07): headway 80→60 min,gain,P-OPERATOR,relaxed,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-OPERATOR,relaxed,0.5
+70A,3,4,1,AM,60.0,45.0,1.4583199339213222,2.75,87.49919603527933,demand,overcrowded at baseline (peak LF 1.46): headway 60→45 min,gain,P-OPERATOR,relaxed,0.5
+8,2,3,1,AM,75.0,45.0,1.3907440987551907,1.6800000000000002,66.75571674024916,demand,overcrowded at baseline (peak LF 1.39): headway 75→45 min,gain,P-OPERATOR,relaxed,0.5
+213,4,5,1,PM,52.38095238095238,45.0,1.246698093852852,3.894545454545455,79.56200562588202,demand,overcrowded at baseline (peak LF 1.25): headway 52→45 min,gain,P-OPERATOR,relaxed,0.5
+214,6,7,1,AM,35.0,30.0,1.1354378200423068,5.314285714285715,116.7878900614944,demand,overcrowded at baseline (peak LF 1.14): headway 35→30 min,gain,P-OPERATOR,relaxed,0.5
+79,4,5,1,PM,45.0,40.0,1.1319514223461593,3.7199999999999998,84.08781994571468,demand,overcrowded at baseline (peak LF 1.13): headway 45→40 min,gain,P-OPERATOR,relaxed,0.5
+20A,3,4,1,AM,60.0,40.0,1.065662303091468,2.5600000000000005,63.93973818548808,demand,overcrowded at baseline (peak LF 1.07): headway 60→40 min,gain,P-OPERATOR,relaxed,0.5
+32,14,11,-3,AM,20.0,25.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-OPERATOR,relaxed,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-OPERATOR,relaxed,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-OPERATOR,relaxed,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-OPERATOR,relaxed,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-OPERATOR,relaxed,0.5
+38AB,8,6,-2,AM,22.22222222222222,25.0,0.34898611107370237,5.940000000000001,56.53574999393978,demand,spare capacity (peak LF 0.35): headway 22→25 min,lose,P-OPERATOR,relaxed,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-OPERATOR,relaxed,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-OPERATOR,relaxed,0.5
+5C,8,6,-2,AM,20.0,20.0,0.6129019445787637,5.760000000000001,110.32235002417747,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-OPERATOR,relaxed,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-OPERATOR,relaxed,0.5
+31,3,4,1,AM,80.0,60.0,2.449172815705542,2.7750000000000004,110.2127767067494,demand,overcrowded at baseline (peak LF 2.45): headway 80→60 min,gain,P-EQUITY,relaxed,0.5
+28A,2,3,1,AM,80.0,60.0,2.171141311083578,1.725,97.70135899876101,demand,overcrowded at baseline (peak LF 2.17): headway 80→60 min,gain,P-EQUITY,relaxed,0.5
+101,2,3,1,AM,80.0,60.0,2.0692487983917087,1.7999999999999998,93.11619592762689,demand,overcrowded at baseline (peak LF 2.07): headway 80→60 min,gain,P-EQUITY,relaxed,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-EQUITY,relaxed,0.5
+70A,3,4,1,PM,60.0,45.0,1.4583199339213222,2.75,81.24925346133081,demand,overcrowded at baseline (peak LF 1.46): headway 60→45 min,gain,P-EQUITY,relaxed,0.5
+8,2,3,1,AM,75.0,45.0,1.3907440987551907,1.6800000000000002,66.75571674024916,demand,overcrowded at baseline (peak LF 1.39): headway 75→45 min,gain,P-EQUITY,relaxed,0.5
+213,4,5,1,PM,52.38095238095238,45.0,1.246698093852852,3.894545454545455,79.56200562588202,demand,overcrowded at baseline (peak LF 1.25): headway 52→45 min,gain,P-EQUITY,relaxed,0.5
+214,6,7,1,PM,35.0,30.0,1.1354378200423068,5.314285714285715,108.44589791424481,demand,overcrowded at baseline (peak LF 1.14): headway 35→30 min,gain,P-EQUITY,relaxed,0.5
+20A,3,4,1,PM,60.0,45.0,1.065662303091468,2.5600000000000005,59.3726140293818,demand,overcrowded at baseline (peak LF 1.07): headway 60→45 min,gain,P-EQUITY,relaxed,0.5
+23B,1,2,1,AM,90.0,45.0,0.8183584797834567,0.7333333333333334,32.734339191338265,demand,busy route (M = 33 pax/h): headway 90→45 min cuts waiting,gain,P-EQUITY,relaxed,0.5
+32,14,11,-3,AM,20.0,25.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-EQUITY,relaxed,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-EQUITY,relaxed,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-EQUITY,relaxed,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-EQUITY,relaxed,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-EQUITY,relaxed,0.5
+38AB,8,6,-2,AM,22.22222222222222,25.0,0.34898611107370237,5.940000000000001,56.53574999393978,demand,spare capacity (peak LF 0.35): headway 22→25 min,lose,P-EQUITY,relaxed,0.5
+5A,8,6,-2,AM,20.0,25.0,0.4720958141654107,5.760000000000001,84.97724654977392,demand,spare capacity (peak LF 0.47): headway 20→25 min,lose,P-EQUITY,relaxed,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-EQUITY,relaxed,0.5
+5C,8,6,-2,AM,20.0,20.0,0.6129019445787637,5.760000000000001,110.32235002417747,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-EQUITY,relaxed,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-EQUITY,relaxed,0.5
+31,3,4,1,AM,80.0,60.0,2.449172815705542,2.7750000000000004,110.2127767067494,demand,overcrowded at baseline (peak LF 2.45): headway 80→60 min,gain,P-BALANCED,relaxed,0.5
+28A,2,3,1,AM,80.0,60.0,2.171141311083578,1.725,97.70135899876101,demand,overcrowded at baseline (peak LF 2.17): headway 80→60 min,gain,P-BALANCED,relaxed,0.5
+101,2,3,1,AM,80.0,60.0,2.0692487983917087,1.7999999999999998,93.11619592762689,demand,overcrowded at baseline (peak LF 2.07): headway 80→60 min,gain,P-BALANCED,relaxed,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,P-BALANCED,relaxed,0.5
+70A,3,4,1,PM,60.0,45.0,1.4583199339213222,2.75,81.24925346133081,demand,overcrowded at baseline (peak LF 1.46): headway 60→45 min,gain,P-BALANCED,relaxed,0.5
+8,2,3,1,AM,75.0,45.0,1.3907440987551907,1.6800000000000002,66.75571674024916,demand,overcrowded at baseline (peak LF 1.39): headway 75→45 min,gain,P-BALANCED,relaxed,0.5
+213,4,5,1,PM,52.38095238095238,45.0,1.246698093852852,3.894545454545455,79.56200562588202,demand,overcrowded at baseline (peak LF 1.25): headway 52→45 min,gain,P-BALANCED,relaxed,0.5
+214,6,7,1,PM,35.0,30.0,1.1354378200423068,5.314285714285715,108.44589791424481,demand,overcrowded at baseline (peak LF 1.14): headway 35→30 min,gain,P-BALANCED,relaxed,0.5
+20A,3,4,1,PM,60.0,45.0,1.065662303091468,2.5600000000000005,59.3726140293818,demand,overcrowded at baseline (peak LF 1.07): headway 60→45 min,gain,P-BALANCED,relaxed,0.5
+23B,1,2,1,AM,90.0,45.0,0.8183584797834567,0.7333333333333334,32.734339191338265,demand,busy route (M = 33 pax/h): headway 90→45 min cuts waiting,gain,P-BALANCED,relaxed,0.5
+32,14,11,-3,AM,20.0,25.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,P-BALANCED,relaxed,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,P-BALANCED,relaxed,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,P-BALANCED,relaxed,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,P-BALANCED,relaxed,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,P-BALANCED,relaxed,0.5
+38AB,8,6,-2,AM,22.22222222222222,25.0,0.34898611107370237,5.940000000000001,56.53574999393978,demand,spare capacity (peak LF 0.35): headway 22→25 min,lose,P-BALANCED,relaxed,0.5
+5A,8,6,-2,AM,20.0,25.0,0.4720958141654107,5.760000000000001,84.97724654977392,demand,spare capacity (peak LF 0.47): headway 20→25 min,lose,P-BALANCED,relaxed,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,P-BALANCED,relaxed,0.5
+5C,8,6,-2,AM,20.0,20.0,0.6129019445787637,5.760000000000001,110.32235002417747,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,P-BALANCED,relaxed,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,P-BALANCED,relaxed,0.5
+31,3,4,1,AM,80.0,60.0,2.449172815705542,2.7750000000000004,110.2127767067494,demand,overcrowded at baseline (peak LF 2.45): headway 80→60 min,gain,CHEBYSHEV,relaxed,0.5
+28A,2,3,1,Midday,80.0,60.0,2.171141311083578,1.725,55.82934799929201,demand,overcrowded at baseline (peak LF 2.17): headway 80→60 min,gain,CHEBYSHEV,relaxed,0.5
+101,2,3,1,Midday,80.0,60.0,2.0692487983917087,1.7999999999999998,53.20925481578681,demand,overcrowded at baseline (peak LF 2.07): headway 80→60 min,gain,CHEBYSHEV,relaxed,0.5
+40,3,4,1,AM,60.0,60.0,1.5629861573122514,3.0800000000000005,93.77916943873508,supply,baseline short of buses for its own timetable (f·τ = 3.08 > 3),gain,CHEBYSHEV,relaxed,0.5
+70A,3,4,1,AM,60.0,45.0,1.4583199339213222,2.75,87.49919603527933,demand,overcrowded at baseline (peak LF 1.46): headway 60→45 min,gain,CHEBYSHEV,relaxed,0.5
+8,2,3,1,AM,75.0,45.0,1.3907440987551907,1.6800000000000002,66.75571674024916,demand,overcrowded at baseline (peak LF 1.39): headway 75→45 min,gain,CHEBYSHEV,relaxed,0.5
+213,4,5,1,PM,52.38095238095238,45.0,1.246698093852852,3.894545454545455,79.56200562588202,demand,overcrowded at baseline (peak LF 1.25): headway 52→45 min,gain,CHEBYSHEV,relaxed,0.5
+214,6,7,1,AM,35.0,30.0,1.1354378200423068,5.314285714285715,116.7878900614944,demand,overcrowded at baseline (peak LF 1.14): headway 35→30 min,gain,CHEBYSHEV,relaxed,0.5
+79,4,5,1,PM,45.0,40.0,1.1319514223461593,3.7199999999999998,84.08781994571468,demand,overcrowded at baseline (peak LF 1.13): headway 45→40 min,gain,CHEBYSHEV,relaxed,0.5
+20A,3,4,1,AM,60.0,40.0,1.065662303091468,2.5600000000000005,63.93973818548808,demand,overcrowded at baseline (peak LF 1.07): headway 60→40 min,gain,CHEBYSHEV,relaxed,0.5
+32,14,11,-3,AM,20.0,25.0,0.6989936785341043,11.310000000000002,125.81886213613878,supply,surplus buses: x0 = 14 vs f·τ = 11.31 at baseline frequency,lose,CHEBYSHEV,relaxed,0.5
+551,9,7,-2,AM,10.0,10.0,0.07835492590308925,6.6000000000000005,28.20777332511213,supply,surplus buses: x0 = 9 vs f·τ = 6.60 at baseline frequency,lose,CHEBYSHEV,relaxed,0.5
+206,10,8,-2,AM,12.0,15.0,0.14045313462495493,9.05,42.13594038748648,demand,spare capacity (peak LF 0.14): headway 12→15 min,lose,CHEBYSHEV,relaxed,0.5
+10,8,6,-2,AM,17.142857142857142,20.0,0.150565542211074,6.125,31.618763864325537,demand,spare capacity (peak LF 0.15): headway 17→20 min,lose,CHEBYSHEV,relaxed,0.5
+20,9,7,-2,AM,20.0,25.0,0.3110871402363979,7.6800000000000015,55.99568524255162,demand,spare capacity (peak LF 0.31): headway 20→25 min,lose,CHEBYSHEV,relaxed,0.5
+38AB,8,6,-2,AM,22.22222222222222,25.0,0.34898611107370237,5.940000000000001,56.53574999393978,demand,spare capacity (peak LF 0.35): headway 22→25 min,lose,CHEBYSHEV,relaxed,0.5
+5A,8,6,-2,AM,20.0,20.0,0.4720958141654107,5.760000000000001,84.97724654977392,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,CHEBYSHEV,relaxed,0.5
+2F,10,8,-2,AM,22.22222222222222,25.0,0.5201501070793559,8.370000000000003,84.26431734685566,supply,surplus buses: x0 = 10 vs f·τ = 8.37 at baseline frequency,lose,CHEBYSHEV,relaxed,0.5
+5C,8,6,-2,AM,20.0,20.0,0.6129019445787637,5.760000000000001,110.32235002417747,supply,surplus buses: x0 = 8 vs f·τ = 5.76 at baseline frequency,lose,CHEBYSHEV,relaxed,0.5
+242,13,11,-2,AM,17.142857142857142,20.0,0.6230705081424791,12.600000000000001,130.84480670992062,supply,buses released to meet the fleet limit for higher-priority routes,lose,CHEBYSHEV,relaxed,0.5

@@ -1,0 +1,23 @@
+constraint,route_no,period,lhs,rhs,excess,unit
+C1 fleet,ALL,AM,384.0,357,27.0,buses
+C1 fleet,ALL,Midday,385.0,357,28.0,buses
+C1 fleet,ALL,PM,380.0,357,23.0,buses
+C5 equity (soft),23B,AM,90.0,60,30.0,min
+C5 equity (soft),23B,PM,90.0,60,30.0,min
+C5 equity (soft),28A,AM,80.0,60,20.0,min
+C5 equity (soft),28A,PM,80.0,60,20.0,min
+C5 equity (soft),8,AM,75.0,60,15.0,min
+C5 equity (soft),8,PM,75.0,60,15.0,min
+C2 f*tau <= x,40,AM,3.0800000000000005,3,0.08000000000000052,buses
+C2 f*tau <= x,40,Midday,3.0800000000000005,3,0.08000000000000052,buses
+C2 f*tau <= x,40,PM,3.0800000000000005,3,0.08000000000000052,buses
+C5 equity (soft),101,AM,80.0,60,20.0,min
+C5 equity (soft),101,PM,80.0,60,20.0,min
+C2 f*tau <= x,25/25A,AM,6.03,5,1.0300000000000002,buses
+C2 f*tau <= x,25/25A,Midday,6.03,5,1.0300000000000002,buses
+C2 f*tau <= x,25/25A,PM,6.03,5,1.0300000000000002,buses
+C2 f*tau <= x,76,AM,5.425000000000001,4,1.4250000000000007,buses
+C2 f*tau <= x,76,Midday,5.425000000000001,4,1.4250000000000007,buses
+C2 f*tau <= x,76,PM,5.425000000000001,4,1.4250000000000007,buses
+C5 equity (soft),31,AM,80.0,60,20.0,min
+C5 equity (soft),31,PM,80.0,60,20.0,min

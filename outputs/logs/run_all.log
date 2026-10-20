@@ -1,0 +1,46 @@
+2026-10-15 16:42:21,266 INFO    stage1: loading C:\Users\armaa\OneDrive\Desktop\Minors\data\raw\CTU_Routes_Structured.xlsx
+2026-10-15 16:42:21,586 INFO    stage1: routes=68  sum(x_base)=389  sum(d_r)=1662.0 km  loops=8  stops=649
+2026-10-15 16:42:22,144 INFO    stage1: stage 1 done
+2026-10-15 16:42:22,145 INFO    stage2: periods (synced with Operating Windows B2:C4): {'AM': (7.0, 10.0), 'Midday': (10.0, 16.0), 'PM': (16.0, 19.0)}
+2026-10-15 16:42:22,173 INFO    stage2: SYNTHETIC demand: daily boardings target 81326, CV of M by period {'AM': 0.389, 'Midday': 0.409, 'PM': 0.382}
+2026-10-15 16:42:25,613 INFO    stage2: stage 2 done
+2026-10-15 16:42:25,624 INFO    stage3: instance: 191 active (r,t) pairs, B_eff=357, C=60, alpha=0.5, modes: fmax=published equity=soft hours=overlap
+2026-10-15 16:42:25,628 WARNING stage3: baseline violates C1 fleet in 3 place(s); max excess 28.000 buses
+2026-10-15 16:42:25,628 WARNING stage3: baseline violates C2 f*tau <= x in 9 place(s); max excess 1.425 buses
+2026-10-15 16:42:25,629 WARNING stage3: baseline violates C5 equity (soft) in 10 place(s); max excess 30.000 min
+2026-10-15 16:42:25,650 INFO    stage3: MILP: 651 variables, 576 constraints
+2026-10-15 16:42:25,698 INFO    stage3: min Z3 solved: Optimal in 0.05 s
+2026-10-15 16:42:25,775 INFO    stage3: min Z3 with relaxed f_max: Z3 2209.9 (published bounds: 3066.6)
+2026-10-15 16:42:26,964 INFO    stage4: GP published alpha=0.00: 5 scenarios solved
+2026-10-15 16:42:27,895 INFO    stage4: GP published alpha=0.25: 5 scenarios solved
+2026-10-15 16:42:29,350 INFO    stage4: GP published alpha=0.50: 5 scenarios solved
+2026-10-15 16:42:30,543 INFO    stage4: GP published alpha=0.75: 5 scenarios solved
+2026-10-15 16:42:32,021 INFO    stage4: GP published alpha=1.00: 5 scenarios solved
+2026-10-15 16:42:33,918 INFO    stage4: GP relaxed alpha=0.00: 5 scenarios solved
+2026-10-15 16:42:35,680 INFO    stage4: GP relaxed alpha=0.25: 5 scenarios solved
+2026-10-15 16:42:37,576 INFO    stage4: GP relaxed alpha=0.50: 5 scenarios solved
+2026-10-15 16:42:39,337 INFO    stage4: GP relaxed alpha=0.75: 5 scenarios solved
+2026-10-15 16:42:41,264 INFO    stage4: GP relaxed alpha=1.00: 5 scenarios solved
+2026-10-15 16:42:41,534 INFO    stage4: stage 4 done: 50 scenario solves, all lexicographic checks passed
+2026-10-15 16:42:41,536 INFO    root: stage 5 skipped (--skip-pareto); reusing saved fronts
+2026-10-15 16:42:44,955 INFO    stage6: knee point from NSGA-II: Z1 180336 Z2 75564 Z3 2270 (distance to ideal 0.447, normalised)
+2026-10-15 16:42:45,379 INFO    stage6: simulated 12 schedules x 2000 demand scenarios
+2026-10-15 16:42:45,770 INFO    stage6: sensitivity demand level=0.8: wait improvement 3.25%
+2026-10-15 16:42:46,069 INFO    stage6: sensitivity demand level=0.9: wait improvement 3.31%
+2026-10-15 16:42:46,441 INFO    stage6: sensitivity demand level=1.0: wait improvement 3.31%
+2026-10-15 16:42:46,794 INFO    stage6: sensitivity demand level=1.1: wait improvement 3.37%
+2026-10-15 16:42:47,135 INFO    stage6: sensitivity demand level=1.2: wait improvement 3.31%
+2026-10-15 16:42:47,460 INFO    stage6: sensitivity capacity C=50: wait improvement 3.36%
+2026-10-15 16:42:47,705 INFO    stage6: sensitivity capacity C=60: wait improvement 3.31%
+2026-10-15 16:42:48,084 INFO    stage6: sensitivity capacity C=70: wait improvement 3.30%
+2026-10-15 16:42:48,403 INFO    stage6: sensitivity capacity C=80: wait improvement 3.25%
+2026-10-15 16:42:48,411 INFO    stage6: sensitivity speed v=18: INFEASIBLE
+2026-10-15 16:42:48,655 INFO    stage6: sensitivity speed v=22: wait improvement 3.31%
+2026-10-15 16:42:48,914 INFO    stage6: sensitivity speed v=26: wait improvement 7.55%
+2026-10-15 16:42:49,103 INFO    stage6: sensitivity spare ratio s=0.0: wait improvement 3.69%
+2026-10-15 16:42:49,336 INFO    stage6: sensitivity spare ratio s=0.08: wait improvement 3.31%
+2026-10-15 16:42:49,342 INFO    stage6: sensitivity spare ratio s=0.1: INFEASIBLE
+2026-10-15 16:42:49,349 INFO    stage6: sensitivity spare ratio s=0.2: INFEASIBLE
+2026-10-15 16:42:49,575 INFO    stage6: sensitivity layover=0.05: wait improvement 5.91%
+2026-10-15 16:42:49,868 INFO    stage6: sensitivity layover=0.1: wait improvement 3.31%
+2026-10-15 16:42:49,874 INFO    stage6: sensitivity layover=0.15: INFEASIBLE

@@ -1,0 +1,15 @@
+{
+  "_comment": "Stage 4 goal-programming scenarios. Goals: G1 waiting (Z1), G2 unserved demand (Z3), G3 vehicle-km (Z2), G4 equity (headway above cap). 'order' lists priority levels from highest to lowest; a level can be a goal name or a list of goals that share the level. Add your own scenarios here.",
+  "kappa1": 0.04,
+  "kappa3": 0.03,
+  "alphas": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "fmax_modes": ["published", "relaxed"],
+  "report_alpha": 0.5,
+  "scenarios": [
+    {"name": "P-PASSENGER", "type": "preemptive", "order": ["G2", "G1", "G4", "G3"]},
+    {"name": "P-OPERATOR",  "type": "preemptive", "order": ["G3", "G2", "G1", "G4"]},
+    {"name": "P-EQUITY",    "type": "preemptive", "order": ["G4", "G2", "G1", "G3"]},
+    {"name": "P-BALANCED",  "type": "weighted",   "weights": {"G1": 1, "G2": 1, "G3": 1, "G4": 1}},
+    {"name": "CHEBYSHEV",   "type": "chebyshev",  "weights": {"G1": 1, "G2": 1, "G3": 1, "G4": 1}}
+  ]
+}

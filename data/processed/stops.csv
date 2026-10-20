@@ -1,0 +1,650 @@
+stop,n_routes_serving,buses_passing,routes
+ISBT-17,47,274,"1, 101, 11, 123A, 14, 17, 202, 206, 212, 214, 216, 219, 22, 239, 23B, 240, 24C, 25/25A, 26, 28, 28A, 2A, 2C, 2F, 30, 30B, 31, 32, 32B, 34, 35, 35A, 35B, 35D, 37, 38AB, 38B, 39, 40, 4C, 7, 70A, 71, 76, 79, 80, 85"
+ISBT-43,39,224,"10, 101, 123A, 14, 17, 18, 20, 202, 206, 20A, 213, 216, 22, 239, 23A, 240, 241, 242, 24A, 24C, 28A, 28B, 30, 30A, 30B, 35B, 37, 38AB, 38B, 39, 4A, 4C, 551, 5A, 5C, 6, 71, 8, 85"
+PGI,33,188,"1, 101, 123A, 212, 214, 219, 23A, 23B, 242, 24A, 25/25A, 26, 28A, 2A, 2C, 2F, 2G, 31, 32, 32B, 34, 35A, 38B, 39, 40, 4A, 4C, 5A, 5C, 70A, 79, 8, 80"
+Aroma,22,128,"101, 123A, 17, 20, 20A, 216, 219, 239, 23A, 240, 242, 24A, 30, 30B, 35, 35B, 38AB, 7, 79, 8, 80, 85"
+23/22,18,100,"14, 17, 18, 202, 206, 216, 22, 240, 24C, 28, 28A, 30, 30B, 37, 39, 7, 71, 85"
+PEC,16,96,"101, 123A, 212, 214, 219, 23A, 242, 31, 34, 35A, 38B, 39, 551, 79, 8, 80"
+New OPD,12,80,"212, 23A, 242, 2F, 31, 32B, 34, 35A, 38B, 4C, 70A, 80"
+Attawa,12,67,"18, 206, 216, 24C, 28B, 30, 30A, 30B, 35, 37, 38B, 85"
+10/16,10,62,"101, 123A, 219, 26, 2C, 2F, 32B, 5C, 79, 80"
+7/19,10,71,"11, 206, 28, 2C, 2F, 2G, 31, 32, 32B, 5C"
+Manimajra,9,47,"1, 10, 28, 2A, 30, 37, 70A, 9A, 9C"
+8/18,9,57,"11, 206, 28, 2C, 2F, 2G, 31, 32B, 5C"
+35/34,9,54,"239, 23A, 240, 242, 24A, 551, 6, 71, 8"
+OPD,9,54,"101, 123A, 214, 219, 26, 32, 39, 79, 8"
+Zirakpur,9,55,"212, 213, 216, 219, 26, 34, 79, 80, 85"
+Colony No.4,8,49,"10, 17, 240, 26, 2A, 2C, 30A, 80"
+26/27,8,52,"11, 206, 2F, 2G, 30, 32B, 5C, 9C"
+Tribune Chowk,8,43,"10, 213, 216, 6, 79, 85, 9A, 9C"
+36/35,8,56,"202, 216, 22, 28, 30, 30A, 30B, 39"
+R/Crossing,7,51,"1, 206, 22, 240, 241, 2C, 71"
+Railway Station,7,36,"10, 11, 2A, 31, 32B, 70A, 9A"
+Kalagram,7,41,"240, 28, 2C, 30, 30A, 30B, 31"
+Hallo Majra,7,45,"212, 213, 216, 26, 34, 6, 79"
+Mansa Devi,7,30,"14, 241, 31, 70A, 71, 9A, 9C"
+17/18,7,48,"18, 202, 206, 239, 2F, 31, 32B"
+CTU w/s,7,45,"22, 240, 241, 26, 2F, 30A, 37"
+Dhanas,6,31,"219, 28B, 2A, 2C, 4A, 4C"
+DMC,6,28,"28B, 2A, 2C, 31, 4A, 4C"
+R/Station,6,39,"22, 240, 241, 28, 2C, 30A"
+22/17,6,33,"23A, 24A, 2C, 39, 551, 8"
+Maloya,6,36,"28, 4A, 4C, 5A, 5C, 6"
+Sec-43/44,6,27,"202, 23A, 240, 24A, 28A, 71"
+Mullanpur,6,25,"25/25A, 26, 28A, 28B, 40, 76"
+M/Majra,6,51,"206, 22, 240, 241, 32, 71"
+Kissan Bhawan,6,43,"206, 216, 240, 35, 35B, 85"
+17/16,5,36,"1, 101, 214, 2F, 32B"
+Railway Crossing,5,34,"10, 2A, 30A, 32B, 9A"
+Khuda Lahora,5,22,"219, 28A, 2A, 4A, 4C"
+CTU Workshop,5,24,"10, 2A, 31, 70A, 9A"
+Elante Mall,5,29,"17, 240, 2A, 2C, 80"
+11/15,5,23,"28A, 2C, 35A, 40, 5C"
+Sec-36/35,5,18,"17, 18, 24C, 28B, 37"
+16/10,5,34,"23A, 242, 2G, 35A, 39"
+Sec 42/43,5,26,"17, 18, 30, 30B, 37"
+Sohana,5,33,"101, 20, 213, 242, 38B"
+Kharar,5,38,"20, 20A, 35, 35B, 35D"
+Airport,5,33,"212, 219, 26, 34, 79"
+Derabassi,5,43,"212, 213, 216, 32, 34"
+New Maloya Colony,4,26,"1, 28, 6, 7"
+CTU W/Shop,4,23,"2C, 31, 32B, 9C"
+26/28,4,30,"28, 2C, 32, 9C"
+Aroma Chowk,4,25,"212, 34, 4A, 4C"
+Ram Darbar,4,28,"10, 5A, 5C, 9A"
+20Mkt,4,22,"17, 219, 7, 79"
+19/27,4,26,"241, 30, 30B, 9C"
+42/43,4,25,"202, 28B, 39, 85"
+44/43,4,17,"101, 123A, 38AB, 8"
+16/17,4,21,"23A, 35A, 551, 8"
+YPS,4,22,"101, 20, 20A, 241"
+Landran,4,29,"20, 20A, 213, 242"
+H/B Chowk,4,31,"206, 22, 240, 241"
+Nada Sahib,4,34,"214, 30, 30B, 32"
+Daun,4,30,"35, 35A, 35B, 35D"
+11/10,4,36,"123A, 242, 39, 551"
+S.P. Barrier,4,20,"214, 219, 25/25A, 40"
+24/25,3,18,"1, 2C, 35A"
+19Mkt,3,20,"1, 214, 30"
+27Mkt,3,22,"1, 214, 30B"
+Sukhna Path Barrier,3,14,"2A, 4A, 4C"
+Phase-6,3,20,"35D, 4A, 4C"
+Sector 10/16,3,21,"212, 34, 4C"
+43/44,3,24,"239, 242, 6"
+Ramdarbar,3,16,"6, 7, 9C"
+Raipur Kalan,3,16,"6, 80, 85"
+21Mkt,3,20,"17, 30B, 7"
+Housing Board,3,9,"2G, 31, 9A"
+PSEB,3,11,"20A, 9A, 9C"
+GMCH-16,3,7,"23B, 31, 70A"
+Parol,3,13,"25/25A, 28B, 40"
+MLA Flat,3,15,"18, 202, 239"
+19,3,16,"22, 70A, 71"
+Kishangarh,3,19,"14, 206, 22"
+IT Park,3,19,"14, 206, 22"
+Lakhnaur,3,25,"20, 20A, 242"
+H.Board,3,20,"28, 30, 30B"
+G.Mkt-26,3,28,"30, 30B, 32"
+R/C,3,28,"30, 30B, 32"
+29/31,3,17,"219, 30A, 85"
+Ramgarh,3,32,"30B, 32, 32B"
+Balongi,3,18,"35, 35A, 35B"
+Block,3,12,"25/25A, 40, 76"
+Sec-21,3,16,"219, 240, 79"
+25/38,2,14,"1, 7"
+18Mkt,2,14,"1, 214"
+28Mkt,2,14,"1, 214"
+CTU W/shop,2,10,"1, 11"
+Indira Colony,2,16,"206, 2A"
+M.M. Town,2,12,"2A, 2C"
+Sector 28/26 Grain Market,2,10,"2A, 9A"
+Sector 19/7,2,14,"2A, 5A"
+Sector 18/8,2,14,"2A, 5A"
+Sector 22/17,2,10,"2A, 4A"
+Sector 16/10,2,14,"2A, 5A"
+Sector 15/11,2,14,"2A, 5A"
+Housing Board Chowk,2,14,"10, 2A"
+38/25,2,11,"28B, 2C"
+K.Lahora,2,12,"26, 2C"
+Sector 43/44,2,8,"4A, 4C"
+I.R.B. Complex,2,8,"4A, 4C"
+CTU Depot-III,2,8,"4A, 4C"
+Sector 38 West,2,8,"4A, 4C"
+Old Barrier,2,8,"4A, 4C"
+Franco Hotel,2,8,"4A, 4C"
+Badheri Chowk,2,8,"4A, 4C"
+Sector 41 Market,2,8,"4A, 4C"
+Sector 42 Market,2,8,"4A, 4C"
+Sector 47 Markets,2,16,"10, 5A"
+25/24,2,14,"5C, 7"
+14/15,2,12,"35A, 5C"
+9/17,2,10,"2G, 5C"
+38Mkt,2,12,"28, 6"
+37Mkt,2,12,"28, 6"
+36/37,2,18,"35D, 6"
+41/42,2,18,"35D, 6"
+30Mkt,2,12,"17, 7"
+Sec-46/47,2,10,"213, 7"
+47Mkt,2,8,"7, 8"
+Phase-VIII,2,8,"9A, 9C"
+H.B Chowk,2,10,"30A, 9C"
+Jagatpura,2,6,"8, 9C"
+63mkt,2,9,"123A, 9C"
+62/63,2,9,"123A, 9C"
+50mkt,2,12,"241, 9C"
+45/46,2,12,"241, 9C"
+20/30,2,12,"241, 9C"
+G/Mkt-26,2,12,"241, 9C"
+Sec-35/34,2,4,"14, 28A"
+S.P.Barrier,2,8,"26, 28A"
+Lake,2,9,"18, 239"
+27,2,10,"22, 70A"
+2/11,2,16,"26, 2F"
+TPT area,2,20,"2F, 32B"
+10/15,2,20,"2F, 32B"
+Pkl B/S,2,20,"2F, 32B"
+Sec-4 Pkl,2,18,"2F, 30B"
+16/10(Hospital),2,3,"24A, 8"
+H/Majra,2,12,"17, 30A"
+H/Court,2,10,"18, 202"
+CHD,2,12,"20, 20A"
+33/34,2,12,"20, 20A"
+44/45,2,12,"20, 20A"
+Ph-7,2,12,"20, 20A"
+ChapparChiri,2,12,"20, 20A"
+SanteMajra,2,12,"20, 20A"
+Sec-21/34,2,11,"20A, 216"
+Sec-42/43,2,13,"22, 30A"
+18,2,13,"22, 71"
+15/11,2,7,"23A, 24A"
+Sec42/43,2,9,"216, 24C"
+Mullanpur Eco City,2,12,"214, 26"
+20Mkts,2,14,"30, 30B"
+Command Hospital,2,12,"30, 30A"
+Majri Chowk,2,12,"214, 30"
+21/34,2,11,"30A, 85"
+20/33,2,11,"30A, 85"
+30/32,2,11,"30A, 85"
+Mubarakpur,2,23,"32, 34"
+Piccadilly Chowk,2,17,"212, 34"
+Sector 21/34,2,17,"212, 34"
+Sector 20/33,2,17,"212, 34"
+Sector 30/32,2,17,"212, 34"
+Sector 29/31,2,17,"212, 34"
+Bankharpur,2,17,"216, 34"
+Sec-35/22,2,14,"35, 35B"
+35/36,2,14,"35, 35B"
+40/41,2,11,"35, 35A"
+F/Chowk,2,14,"35, 35B"
+Ph-2,2,14,"35, 35B"
+Ph-6,2,14,"35, 35B"
+DesuMajra,2,14,"35, 35B"
+KFC,2,16,"35A, 35D"
+27mkt,2,10,"241, 37"
+M.Majra,2,8,"214, 37"
+Sec-22/17,2,18,"242, 38B"
+Tangori,2,18,"242, 38B"
+Sec-16/10,2,8,"25/25A, 40"
+Majra,2,8,"25/25A, 40"
+Boothgarh,2,8,"25/25A, 40"
+Sialva,2,8,"25/25A, 40"
+Khizrabad,2,8,"25/25A, 40"
+G/Mkt,2,16,"206, 71"
+Hallomajra,2,10,"80, 85"
+Mouli Jagran,2,10,"80, 85"
+Baltana,2,10,"80, 85"
+34/35,2,13,"123A, 38AB"
+51mkt,2,13,"123A, 241"
+Airport Chowk,2,12,"213, 216"
+Sec-30/32,2,14,"216, 219"
+DaduMajra village,1,8,1
+CTU W/S,1,8,1
+15Mkt,1,8,1
+16Mkt,1,8,1
+R/Stn,1,8,1
+Kala Gram,1,8,1
+H.B.,1,8,1
+M.M. Complex,1,6,2A
+Sector 25/38,1,6,2A
+Sector 25/24,1,6,2A
+Sector 24/15,1,6,2A
+Sector 23/16,1,6,2A
+Sector 18/21,1,6,2A
+Sector 19/20,1,6,2A
+Sector 27/30,1,6,2A
+Sector 28/29,1,6,2A
+Mani Majra,1,6,2C
+H.B. Chowk,1,6,2C
+Sec-29/28,1,6,2C
+30/27,1,6,2C
+20/19,1,6,2C
+21/18,1,6,2C
+16/23,1,6,2C
+15/24,1,6,2C
+SP Barrier,1,6,2C
+G.Mkt.,1,6,2C
+M/Complex,1,6,2C
+Indra Colony,1,6,2C
+Sector 35/34,1,4,4A
+Sector 16/17,1,4,4A
+Rose Garden,1,4,4A
+Sector 16/10 Hospital,1,4,4A
+New OPD (PGI),1,4,4A
+Sector 40/41,1,4,4A
+Sector 41/40,1,4,4C
+Sector 10/11,1,4,4C
+Sector 17/16,1,4,4C
+Sector 34/35,1,4,4C
+Sector 44/43,1,4,4C
+RamDarbar,1,8,5A
+Sector 47 Market,1,8,5A
+Sector 46/47,1,8,5A
+Sector 32/31,1,8,5A
+Sector 30/29,1,8,5A
+Sector 27/28,1,8,5A
+Sector 27/26,1,8,5A
+Sector 17/9,1,8,5A
+Panjab University,1,8,5A
+Sector 15/14,1,8,5A
+Sector 24/25,1,8,5A
+Sector 37/38,1,8,5A
+Sector 38/40,1,8,5A
+Sector 39/38 West,1,8,5A
+Sector 39,1,8,5A
+Sector 40,1,8,5A
+Sector 41,1,8,5A
+Sector 42 Markets,1,8,5A
+Sector 44,1,8,5A
+Sector 45,1,8,5A
+Sector 46,1,8,5A
+Sec-47 mkt,1,8,5C
+46,1,8,5C
+45,1,8,5C
+44 mkts,1,8,5C
+42,1,8,5C
+41,1,8,5C
+40,1,8,5C
+39 mkts,1,8,5C
+38W/39,1,8,5C
+38/40,1,8,5C
+38/37,1,8,5C
+Uni.,1,8,5C
+28/27,1,8,5C
+29/30,1,8,5C
+31/32,1,8,5C
+47/46,1,8,5C
+47 mkt,1,8,5C
+38west,1,6,6
+Sec42,1,6,6
+34Mkt,1,6,6
+33Mkt,1,6,6
+32Mkt,1,6,6
+31Mkt,1,6,6
+Vikas Nagar,1,6,6
+Maloya Sec-38West Light Point,1,6,7
+24Mkt,1,6,7
+23Mkt,1,6,7
+Sec-29/30,1,6,7
+GMCH-32,1,6,7
+31/32 Mkt,1,6,7
+32 SD-College,1,6,7
+Industrial Area Phase-2,1,6,7
+Sector 27/19,1,4,9A
+Sector 30/20,1,4,9A
+Sector 32/33,1,4,9A
+Sector 46/45,1,4,9A
+Sector 49/50,1,4,9A
+Sector 50 Market,1,4,9A
+Sector 50/51,1,4,9A
+Sector 62/63,1,4,9A
+Sector 63 Market,1,4,9A
+Sector 64/63,1,4,9A
+Sector 68/67,1,4,9A
+Sector 67/80,1,4,9A
+Sector 66/ISB-81,1,4,9A
+Sector 66/Industrial Area Phase-9,1,4,9A
+Mohali,1,4,9A
+Phase-11 (Outer),1,4,9A
+Sector 48/Jagatpura,1,4,9A
+Sector 47 (Outer),1,4,9A
+Industrial Area Phase-II,1,4,9A
+Sector 29 Nursery,1,4,9A
+Sector 28 Petrol Pump,1,4,9A
+M.majra,1,4,9C
+R.Crossing,1,4,9C
+R.Station,1,4,9C
+28 P.Pump,1,4,9C
+Indl. Area/Sec-29,1,4,9C
+Indl. Area Ph-2,1,4,9C
+Outer 47,1,4,9C
+Ph-11 (65 Mkt Outer),1,4,9C
+Sec-66/Ind. Area Phase-9 Mohali,1,4,9C
+Sec-ISB-81/66,1,4,9C
+Ind. Area Phase-9 Mohali/Sec-66,1,4,9C
+80/67,1,4,9C
+68/67,1,4,9C
+63/64,1,4,9C
+50/51,1,4,9C
+50/49,1,4,9C
+33/32,1,4,9C
+TPT/C,1,4,9C
+H.B.C,1,4,9C
+Rock Garden,1,1,11A
+BIRD PARK,1,1,11A
+Sukhna Lake,1,1,11A
+Sec-16/17 MC,1,1,23B
+Sec-16/10-Matka Chowk,1,1,23B
+Sec-15/11,1,1,23B
+Khuda Lahora Mod (Govt. High School-Sec-12) UT Border,1,1,23B
+Nayagaon Gate-1,1,1,23B
+Nayagaon Gate-2,1,1,23B
+Nayagaon Gate-3,1,1,23B
+Village Nada Bridge,1,1,23B
+Village Singha Devi Bridge,1,1,23B
+Badi Karoran,1,1,23B
+17/9,1,2,28A
+KC/16/10,1,2,28A
+ECO-City,1,2,28A
+DLF Chowk,1,2,28A
+Todde Majra,1,2,28A
+Rasulpur,1,2,28A
+Omax Phase-II,1,2,28A
+Rani Majra,1,2,28A
+37/24,1,5,28B
+S/P Barrier,1,5,28B
+Homi Bhaba,1,5,28B
+Majra T-Pont,1,5,28B
+Hosiarpur,1,5,28B
+Eco City,1,5,28B
+Eco City Block-2 (Takipur),1,5,28B
+9/8 K.C. UT Sectt.,1,5,239
+H/Cout,1,5,239
+Bird Park,1,5,239
+Jayanti Majri,1,3,70A
+Parch,1,3,70A
+Sarangpur Barrier,1,3,70A
+Sector 18,1,3,70A
+28 (Market),1,3,70A
+26/28 G.Mkt.,1,10,2F
+Rly/Stn,1,10,2F
+Rly/Crossing,1,10,2F
+H.B.Chowk,1,10,2F
+Panchkula Sector-8/17,1,10,2F
+9/16,1,10,2F
+11/12,1,10,2F
+Sec-21 Pkl,1,10,2F
+Sec-20 Pkl,1,10,2F
+Sushma Square/Dhakoli,1,10,2F
+Platinum Homes,1,10,2F
+Sec-11/15,1,2,2G
+Madhaya Marg,1,2,2G
+G-Mkt-26,1,2,2G
+Geeta Bhawan PKL,1,2,2G
+Panchkula Bus Stand,1,2,2G
+Mohali Ph-XI,1,2,8
+Sec-49/48,1,2,8
+46Mkt,1,2,8
+45Mkt,1,2,8
+44Mkt,1,2,8
+Sector 44/51,1,8,10
+Sector 45 Market,1,8,10
+Sector 46 Market,1,8,10
+Poultry Farm,1,8,10
+Sec-26 G/Mkt,1,2,11
+UT Sectt.,1,2,11
+High Court,1,2,11
+CIVIL SECTT.,1,2,11
+29Mkts,1,6,17
+Behlana,1,6,17
+17 B/S,1,4,18
+9/8,1,4,18
+9mkt,1,4,18
+Pb.Civil.Sectt,1,4,18
+Kaimbwala,1,4,18
+Sec 43/44,1,2,14
+Sec-8/9,1,2,14
+Lake Chowk,1,2,14
+Mansa Devi Complex,1,2,14
+Sec-21Mkt,1,9,20
+20/21 divided,1,9,20
+Fortis Hospital,1,3,20A
+Forest Complex,1,3,20A
+Kumbra Village,1,3,20A
+Sec-68/69 Sohana,1,3,20A
+17/18 L/Point,1,7,22
+28 mkts,1,7,22
+NayaGaon,1,6,23A
+Khuda Ali Sher,1,6,23A
+10/11,1,6,26
+19/20,1,6,26
+28 P.P.,1,6,26
+R/S,1,6,26
+Dhakoli,1,6,26
+Golden Sand Apartment,1,6,26
+Daddu Majra Village,1,6,28
+38w,1,6,28
+36Mkt,1,6,28
+26-G/Mkt,1,6,28
+CTU/w/s,1,6,28
+21,1,6,30
+K/Bhawan,1,6,30A
+22/35,1,6,30A
+Tribune,1,6,30A
+Fun Republic,1,6,30A
+Tank Chowk,1,6,30A
+Cantonment,1,6,30A
+11/15 Pkl,1,8,30B
+12/11 Pkl,1,8,30B
+Raily Chowk,1,8,30B
+Sec-11/10,1,14,32
+Sec-10/16,1,14,32
+Sec-17/16,1,14,32
+Sec-8/18,1,14,32
+H/B,1,14,32
+Old Pkl,1,14,32
+Sector-2/11,1,10,32B
+Grain Mkt-26,1,10,32B
+Kalagram H.B.Chowk,1,10,32B
+8/17 Pkl,1,10,32B
+9/16 Pkl,1,10,32B
+11/4 Outer,1,10,32B
+3/21 Pkl,1,10,32B
+Sec-24 Pkl,1,10,32B
+25 Pkl,1,10,32B
+26 Pkl,1,10,32B
+27/28 Pkl,1,10,32B
+Sec-36/37,1,7,35
+Mundi Kharar,1,7,35
+37/38,1,4,35A
+P.B. Barrier,1,4,35A
+Jalvayu Tower,1,4,35A
+Sec-124/125,1,4,35A
+Sector-123,1,4,35A
+Atawa,1,7,35B
+MundiKharar,1,7,35B
+Sec 18mkt,1,2,37
+Sec 19mkt,1,2,37
+28mkt,1,2,37
+Rly. Stn.,1,2,37
+H/Board,1,2,37
+Sec-10A/11B,1,5,38B
+Sec-10D/11C,1,5,38B
+Sec-16/10 GMCH,1,5,38B
+Sec-16/17-Matka Chowk,1,5,38B
+Sec-16/17 MC Office,1,5,38B
+Sec-22/23,1,5,38B
+Kisan Bhawan,1,5,38B
+Sec-35/36,1,5,38B
+Sec-43/42,1,5,38B
+Sec-51/52,1,5,38B
+YPS(UT,1,5,38B
+Border),1,5,38B
+Sec-61/62,1,5,38B
+Sec-70/69,1,5,38B
+Sec-68/79,1,5,38B
+Sec-67/80,1,5,38B
+Sec-66/81 (IISER),1,5,38B
+Sec-82,1,5,38B
+Aero City Block-D,1,5,38B
+Manav International School,1,5,38B
+Amity University,1,5,38B
+Sec-82A,1,5,38B
+HDFC head office chowk,1,5,38B
+Plaksha University,1,5,38B
+R.B.P. City,1,5,38B
+Sunny-Gilco Park,1,5,38B
+T-Point Flyover Derri,1,5,38B
+Mohali Ph-11,1,9,39
+Mohali Rly. Stn.,1,9,39
+Indl. Area Ph-9,1,9,39
+Mohali Sec-66/67 Mkts,1,9,39
+67/68,1,9,39
+68 outer,1,9,39
+69/68,1,9,39
+Kumbra,1,9,39
+Edu.Board Pb.,1,9,39
+Fortis,1,9,39
+Ph-7 Light Point,1,9,39
+Chawla Chowk,1,9,39
+Sec-60/61,1,9,39
+52/61,1,9,39
+YPS Chowk,1,9,39
+Khudalahora,1,3,40
+Manakpur,1,3,40
+Kubheri,1,3,40
+K.Bhawan,1,6,71
+27 Mkts,1,6,71
+M/M Complex,1,6,71
+M/M Town,1,6,71
+Swastik Vihar,1,6,71
+Saketri,1,6,71
+Saketri (Kaimbwala),1,6,71
+Sec-20/30,1,4,79
+32 Hospital,1,4,79
+Dayalpura,1,4,79
+Chhatbir Zoo,1,4,79
+20mkt,1,5,80
+30mkt,1,5,80
+29mkt,1,5,80
+Piccdly Chowk,1,5,85
+Sec34/35,1,2,101
+52/51,1,2,101
+61/62,1,2,101
+68/80,1,2,101
+81/82,1,2,101
+Manoli,1,2,101
+U.T. Border,1,5,123A
+64mkt,1,5,123A
+65mkt,1,5,123A
+Mohali R/Station Ph-11,1,5,123A
+K.C,1,6,202
+U.T.Sectt,1,6,202
+Pb/HR.Sectt,1,6,202
+PB Civil Sectt (High Court),1,6,202
+Sec-44/43,1,9,551
+JW Marriott,1,9,551
+21/21 Aroma,1,9,551
+16/10 General Hospital,1,9,551
+NEW OPD,1,9,551
+PGI (Express),1,9,551
+TPT,1,10,206
+Bhankarpur,1,8,212
+Dc.office/Lakhnour,1,4,213
+Sec-69/68,1,4,213
+Fortis/PSEB,1,4,213
+Sec-62/63,1,4,213
+Sec-51,1,4,213
+Sec-44,1,4,213
+Sec-45,1,4,213
+Sec-32/31(Hospital),1,4,213
+Singhpura,1,4,213
+Bhankharpur,1,4,213
+KhudaLahora,1,6,214
+Sec10/16,1,6,214
+Indl. area/Ph.1,1,6,214
+Rly. Station,1,6,214
+Rly. Crossing,1,6,214
+H/B.Chowk,1,6,214
+M.Hospital,1,6,214
+old P.Kula,1,6,214
+HalloMajra,1,6,219
+Naba Sahib,1,6,219
+Joshi Farm,1,6,219
+Victoria Enclave,1,6,219
+Bhabhat,1,6,219
+20,1,6,240
+30,1,6,240
+29 mkts,1,6,240
+Mata Mansa Devi,1,6,240
+Sec-20/33,1,8,216
+Sec-52/53,1,8,241
+Sec-52/61,1,8,241
+Sec-51/50,1,8,241
+49/50,1,8,241
+50/45,1,8,241
+44C/45D Gaushala,1,8,241
+45mkt,1,8,241
+32/33,1,8,241
+TPT Chowk,1,8,241
+Indl.Area Ph-1,1,8,241
+Khudalahorra,1,5,25/25A
+Khera,1,5,25/25A
+Jandemajra,1,5,25/25A
+Sec-16/23,1,12,35D
+24/15 Indra Holiday Home,1,12,35D
+24/25 Light Point,1,12,35D
+24/25 Bhaskar Chowk,1,12,35D
+24/37 Batra Theater,1,12,35D
+40/55,1,12,35D
+39/56,1,12,35D
+ISBT-Mohali,1,12,35D
+Balongii,1,12,35D
+Desumajra/Nijjer Chowk,1,12,35D
+Mundi Kharar/Gilco,1,12,35D
+Bansawali Chungi,1,12,35D
+Kila Chungi,1,12,35D
+Derri,1,13,242
+Saneta,1,13,242
+SCL(Light Point),1,13,242
+IVY Hospital,1,13,242
+Ph-5/3 light point Madanpur,1,13,242
+Furniture Chowk,1,13,242
+Sector-42 College,1,13,242
+16 Hospital,1,13,242
+Kurali,1,4,76
+Omex Tower,1,3,31
+Risort Lake,1,3,31
+Ambika Florance,1,3,31
+Omex Phase-1/2,1,3,31
+Ranimajra,1,3,31
+Sainimajra,1,3,31
+Bansepur/Omex Cassia,1,3,31
+Tidan Cricket Stadium,1,3,31
+Togan,1,3,31
+Milk Colony,1,3,31
+Dhanas Bridge,1,3,31
+Sec-38/25 Light Point,1,3,31
+Sec-38/25 Dental College,1,3,31
+Sec-24/25 Light Point,1,3,31
+Pb. Univ.,1,3,31
+Sec10A/11B,1,3,31
+Sec-10/11 Mkt,1,3,31
+Sec-10D/11,1,3,31
+7/26,1,3,31
+SGGS-26 College,1,3,31
+Police Line-Bapu Dham,1,3,31
+Ind.Phase-I,1,3,31
+Manimajra/Fun Republic,1,3,31
+51/52,1,8,38AB
+YPS Cwk,1,8,38AB
+61/61,1,8,38AB
+70/69 Sohana,1,8,38AB
+68/79,1,8,38AB
+67/80,1,8,38AB
+66/81,1,8,38AB
+ISSER,1,8,38AB
+Sec-66/82,1,8,38AB
+Mohali Airport Chowk,1,8,38AB
+Shafipur (Flyover),1,8,38AB
+Jhurheri,1,8,38AB
+New Airport,1,8,38AB

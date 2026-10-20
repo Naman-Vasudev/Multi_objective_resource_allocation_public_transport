@@ -1,0 +1,201 @@
+scenario,fmax_mode,alpha,goal,description,unit,priority,target,achieved,unwanted_dev,met,best_possible,reason_if_unmet
+P-PASSENGER,published,0.0,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.0,G2,unserved demand Z3,pax/day,1,0.0,4602.579947886563,4602.579947886563,False,4602.579947886563,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,published,0.0,G4,equity: headway above cap,min,3,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186641.2204597437,9255.712089974462,False,186199.08844436938,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.0,G2,unserved demand Z3,pax/day,2,0.0,4602.579947886563,4602.579947886563,False,4602.579947886563,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.0,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77068.26666666666,0.0,True,74501.12848484848,
+P-OPERATOR,published,0.0,G4,equity: headway above cap,min,4,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-EQUITY,published,0.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-EQUITY,published,0.0,G2,unserved demand Z3,pax/day,2,0.0,4602.579947886563,4602.579947886563,False,4602.579947886563,target beyond the best possible value (ideal)
+P-EQUITY,published,0.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-EQUITY,published,0.0,G4,equity: headway above cap,min,1,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-BALANCED,published,0.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+P-BALANCED,published,0.0,G2,unserved demand Z3,pax/day,weighted,0.0,4602.579947886563,4602.579947886563,False,4602.579947886563,target beyond the best possible value (ideal)
+P-BALANCED,published,0.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+P-BALANCED,published,0.0,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.0,G2,unserved demand Z3,pax/day,weighted,0.0,4602.579947886563,4602.579947886563,False,4602.579947886563,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,published,0.0,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.25,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.25,G2,unserved demand Z3,pax/day,1,0.0,3782.283494959999,3782.283494959999,False,3782.283494959999,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.25,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,published,0.25,G4,equity: headway above cap,min,3,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.25,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186641.2204597437,9255.712089974462,False,186199.08844436938,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.25,G2,unserved demand Z3,pax/day,2,0.0,3782.283494959999,3782.283494959999,False,3782.283494959999,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.25,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77068.26666666666,0.0,True,74501.12848484848,
+P-OPERATOR,published,0.25,G4,equity: headway above cap,min,4,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-EQUITY,published,0.25,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-EQUITY,published,0.25,G2,unserved demand Z3,pax/day,2,0.0,3782.283494959999,3782.283494959999,False,3782.283494959999,target beyond the best possible value (ideal)
+P-EQUITY,published,0.25,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-EQUITY,published,0.25,G4,equity: headway above cap,min,1,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-BALANCED,published,0.25,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+P-BALANCED,published,0.25,G2,unserved demand Z3,pax/day,weighted,0.0,3782.283494959999,3782.283494959999,False,3782.283494959999,target beyond the best possible value (ideal)
+P-BALANCED,published,0.25,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+P-BALANCED,published,0.25,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.25,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.25,G2,unserved demand Z3,pax/day,weighted,0.0,3782.283494959999,3782.283494959999,False,3782.283494959999,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.25,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,published,0.25,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.5,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.5,G2,unserved demand Z3,pax/day,1,0.0,3066.559748526984,3066.559748526984,False,3066.559748526984,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.5,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,published,0.5,G4,equity: headway above cap,min,3,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.5,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186641.2204597437,9255.712089974462,False,186199.08844436938,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.5,G2,unserved demand Z3,pax/day,2,0.0,3066.559748526984,3066.559748526984,False,3066.559748526984,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.5,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77068.26666666666,0.0,True,74501.12848484848,
+P-OPERATOR,published,0.5,G4,equity: headway above cap,min,4,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-EQUITY,published,0.5,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-EQUITY,published,0.5,G2,unserved demand Z3,pax/day,2,0.0,3066.559748526984,3066.559748526984,False,3066.559748526984,target beyond the best possible value (ideal)
+P-EQUITY,published,0.5,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-EQUITY,published,0.5,G4,equity: headway above cap,min,1,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-BALANCED,published,0.5,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+P-BALANCED,published,0.5,G2,unserved demand Z3,pax/day,weighted,0.0,3066.559748526984,3066.559748526984,False,3066.559748526984,target beyond the best possible value (ideal)
+P-BALANCED,published,0.5,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+P-BALANCED,published,0.5,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.5,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.5,G2,unserved demand Z3,pax/day,weighted,0.0,3066.559748526984,3066.559748526984,False,3066.559748526984,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.5,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,published,0.5,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.75,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.75,G2,unserved demand Z3,pax/day,1,0.0,2437.5918378573306,2437.5918378573306,False,2437.5918378573306,target beyond the best possible value (ideal)
+P-PASSENGER,published,0.75,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,published,0.75,G4,equity: headway above cap,min,3,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.75,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186641.2204597437,9255.712089974462,False,186199.08844436938,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.75,G2,unserved demand Z3,pax/day,2,0.0,2437.5918378573306,2437.5918378573306,False,2437.5918378573306,target beyond the best possible value (ideal)
+P-OPERATOR,published,0.75,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77068.26666666666,0.0,True,74501.12848484848,
+P-OPERATOR,published,0.75,G4,equity: headway above cap,min,4,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-EQUITY,published,0.75,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-EQUITY,published,0.75,G2,unserved demand Z3,pax/day,2,0.0,2437.5918378573306,2437.5918378573306,False,2437.5918378573306,target beyond the best possible value (ideal)
+P-EQUITY,published,0.75,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-EQUITY,published,0.75,G4,equity: headway above cap,min,1,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-BALANCED,published,0.75,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+P-BALANCED,published,0.75,G2,unserved demand Z3,pax/day,weighted,0.0,2437.5918378573306,2437.5918378573306,False,2437.5918378573306,target beyond the best possible value (ideal)
+P-BALANCED,published,0.75,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+P-BALANCED,published,0.75,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.75,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.75,G2,unserved demand Z3,pax/day,weighted,0.0,2437.5918378573306,2437.5918378573306,False,2437.5918378573306,target beyond the best possible value (ideal)
+CHEBYSHEV,published,0.75,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,published,0.75,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-PASSENGER,published,1.0,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-PASSENGER,published,1.0,G2,unserved demand Z3,pax/day,1,0.0,1847.9148823783653,1847.9148823783653,False,1847.9148823783653,target beyond the best possible value (ideal)
+P-PASSENGER,published,1.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,published,1.0,G4,equity: headway above cap,min,3,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-OPERATOR,published,1.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186641.2204597437,9255.712089974462,False,186199.08844436938,target beyond the best possible value (ideal)
+P-OPERATOR,published,1.0,G2,unserved demand Z3,pax/day,2,0.0,1847.9148823783653,1847.9148823783653,False,1847.9148823783653,target beyond the best possible value (ideal)
+P-OPERATOR,published,1.0,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77068.26666666666,0.0,True,74501.12848484848,
+P-OPERATOR,published,1.0,G4,equity: headway above cap,min,4,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-EQUITY,published,1.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,186199.08844436938,8813.580074600148,False,186199.08844436938,target beyond the best possible value (ideal)
+P-EQUITY,published,1.0,G2,unserved demand Z3,pax/day,2,0.0,1847.9148823783653,1847.9148823783653,False,1847.9148823783653,target beyond the best possible value (ideal)
+P-EQUITY,published,1.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77684.10666666666,590.1661015151476,False,74501.12848484848,traded off for a higher-priority goal
+P-EQUITY,published,1.0,G4,equity: headway above cap,min,1,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-BALANCED,published,1.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+P-BALANCED,published,1.0,G2,unserved demand Z3,pax/day,weighted,0.0,1847.9148823783653,1847.9148823783653,False,1847.9148823783653,target beyond the best possible value (ideal)
+P-BALANCED,published,1.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+P-BALANCED,published,1.0,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+CHEBYSHEV,published,1.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,186582.87529462032,9197.366924851085,False,186199.08844436938,target beyond the best possible value (ideal)
+CHEBYSHEV,published,1.0,G2,unserved demand Z3,pax/day,weighted,0.0,1847.9148823783653,1847.9148823783653,False,1847.9148823783653,target beyond the best possible value (ideal)
+CHEBYSHEV,published,1.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77110.98666666666,17.04610151515226,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,published,1.0,G4,equity: headway above cap,min,weighted,0.0,210.0,210.0,False,210.0,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,0.0,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,178709.4658577126,1323.9574879433785,False,175794.85444348812,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.0,G2,unserved demand Z3,pax/day,1,0.0,3730.9304340638473,3730.9304340638473,False,3730.9304340638473,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,0.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77724.37922077923,630.4386556277168,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.0,G4,equity: headway above cap,min,3,0.0,140.0,140.0,False,0.0,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,179267.29429908696,1881.7859293177316,False,175794.85444348812,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.0,G2,unserved demand Z3,pax/day,2,0.0,3730.9304340638473,3730.9304340638473,False,3730.9304340638473,target beyond the best possible value (ideal)
+P-OPERATOR,relaxed,0.0,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77081.73922077921,0.0,True,74501.12848484848,
+P-OPERATOR,relaxed,0.0,G4,equity: headway above cap,min,4,0.0,140.0,140.0,False,0.0,traded off for a higher-priority goal
+P-EQUITY,relaxed,0.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177343.02400618957,0.0,True,175794.85444348812,
+P-EQUITY,relaxed,0.0,G2,unserved demand Z3,pax/day,2,0.0,3912.472469266157,3912.472469266157,False,3730.9304340638473,target beyond the best possible value (ideal)
+P-EQUITY,relaxed,0.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,76992.89810966811,0.0,True,74501.12848484848,
+P-EQUITY,relaxed,0.0,G4,equity: headway above cap,min,1,0.0,0.0,0.0,True,0.0,
+P-BALANCED,relaxed,0.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177267.26609206607,0.0,True,175794.85444348812,
+P-BALANCED,relaxed,0.0,G2,unserved demand Z3,pax/day,weighted,0.0,3912.472469266157,3912.472469266157,False,3730.9304340638473,target beyond the best possible value (ideal)
+P-BALANCED,relaxed,0.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,76975.14477633478,0.0,True,74501.12848484848,
+P-BALANCED,relaxed,0.0,G4,equity: headway above cap,min,weighted,0.0,0.0,0.0,True,0.0,
+CHEBYSHEV,relaxed,0.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,179261.12446666363,1875.6160968944023,False,175794.85444348812,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.0,G2,unserved demand Z3,pax/day,weighted,0.0,3730.9304340638473,3730.9304340638473,False,3730.9304340638473,target beyond the best possible value (ideal)
+CHEBYSHEV,relaxed,0.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77095.33922077922,1.3986556277086493,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.0,G4,equity: headway above cap,min,weighted,0.0,140.0,140.0,False,0.0,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.25,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,177627.40839321224,241.9000234430132,False,175794.85444348812,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.25,G2,unserved demand Z3,pax/day,1,0.0,2900.854082907353,2900.854082907353,False,2900.854082907353,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,0.25,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77441.70707792207,347.766512770555,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.25,G4,equity: headway above cap,min,3,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.25,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177877.92970404055,492.4213342713192,False,175794.85444348812,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.25,G2,unserved demand Z3,pax/day,2,0.0,2900.854082907353,2900.854082907353,False,2900.854082907353,target beyond the best possible value (ideal)
+P-OPERATOR,relaxed,0.25,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77085.78707792208,0.0,True,74501.12848484848,
+P-OPERATOR,relaxed,0.25,G4,equity: headway above cap,min,4,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-EQUITY,relaxed,0.25,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177295.23750456178,0.0,True,175794.85444348812,
+P-EQUITY,relaxed,0.25,G2,unserved demand Z3,pax/day,2,0.0,3010.473103026267,3010.473103026267,False,2900.854082907353,target beyond the best possible value (ideal)
+P-EQUITY,relaxed,0.25,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,76783.14255411256,0.0,True,74501.12848484848,
+P-EQUITY,relaxed,0.25,G4,equity: headway above cap,min,1,0.0,0.0,0.0,True,0.0,
+P-BALANCED,relaxed,0.25,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177256.70718797026,0.0,True,175794.85444348812,
+P-BALANCED,relaxed,0.25,G2,unserved demand Z3,pax/day,weighted,0.0,3010.473103026267,3010.473103026267,False,2900.854082907353,target beyond the best possible value (ideal)
+P-BALANCED,relaxed,0.25,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77002.90255411256,0.0,True,74501.12848484848,
+P-BALANCED,relaxed,0.25,G4,equity: headway above cap,min,weighted,0.0,0.0,0.0,True,0.0,
+CHEBYSHEV,relaxed,0.25,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177877.92970404055,492.4213342713192,False,175794.85444348812,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.25,G2,unserved demand Z3,pax/day,weighted,0.0,2900.854082907353,2900.854082907353,False,2900.854082907353,target beyond the best possible value (ideal)
+CHEBYSHEV,relaxed,0.25,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77085.78707792208,0.0,True,74501.12848484848,
+CHEBYSHEV,relaxed,0.25,G4,equity: headway above cap,min,weighted,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.5,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,177430.2130898756,44.704720106354216,False,175794.85444348812,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.5,G2,unserved demand Z3,pax/day,1,0.0,2173.091649049754,2173.091649049754,False,2173.091649049754,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,0.5,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77466.10707792208,372.1665127705637,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.5,G4,equity: headway above cap,min,3,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.5,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177732.90973340394,347.4013636347081,False,175794.85444348812,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.5,G2,unserved demand Z3,pax/day,2,0.0,2173.091649049754,2173.091649049754,False,2173.091649049754,target beyond the best possible value (ideal)
+P-OPERATOR,relaxed,0.5,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77087.86707792207,0.0,True,74501.12848484848,
+P-OPERATOR,relaxed,0.5,G4,equity: headway above cap,min,4,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-EQUITY,relaxed,0.5,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177349.7555442984,0.0,True,175794.85444348812,
+P-EQUITY,relaxed,0.5,G2,unserved demand Z3,pax/day,2,0.0,2269.907797582171,2269.907797582171,False,2173.091649049754,target beyond the best possible value (ideal)
+P-EQUITY,relaxed,0.5,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77041.44255411255,0.0,True,74501.12848484848,
+P-EQUITY,relaxed,0.5,G4,equity: headway above cap,min,1,0.0,0.0,0.0,True,0.0,
+P-BALANCED,relaxed,0.5,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177285.87223625035,0.0,True,175794.85444348812,
+P-BALANCED,relaxed,0.5,G2,unserved demand Z3,pax/day,weighted,0.0,2269.907797582171,2269.907797582171,False,2173.091649049754,target beyond the best possible value (ideal)
+P-BALANCED,relaxed,0.5,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77045.46255411256,0.0,True,74501.12848484848,
+P-BALANCED,relaxed,0.5,G4,equity: headway above cap,min,weighted,0.0,0.0,0.0,True,0.0,
+CHEBYSHEV,relaxed,0.5,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177686.90423312722,301.3958633579896,False,175794.85444348812,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.5,G2,unserved demand Z3,pax/day,weighted,0.0,2173.091649049754,2173.091649049754,False,2173.091649049754,target beyond the best possible value (ideal)
+CHEBYSHEV,relaxed,0.5,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77096.58707792207,2.6465127705596387,False,74501.12848484848,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.5,G4,equity: headway above cap,min,weighted,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.75,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,177641.19967220648,255.69130243724794,False,175794.85444348812,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.75,G2,unserved demand Z3,pax/day,1,0.0,1587.51182651419,1587.51182651419,False,1587.51182651419,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,0.75,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77438.76162337662,344.82105822510493,False,74501.12848484848,traded off for a higher-priority goal
+P-PASSENGER,relaxed,0.75,G4,equity: headway above cap,min,3,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.75,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177891.72098303481,506.21261326558306,False,175794.85444348812,traded off for a higher-priority goal
+P-OPERATOR,relaxed,0.75,G2,unserved demand Z3,pax/day,2,0.0,1587.51182651419,1587.51182651419,False,1587.51182651419,target beyond the best possible value (ideal)
+P-OPERATOR,relaxed,0.75,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77082.84162337662,0.0,True,74501.12848484848,
+P-OPERATOR,relaxed,0.75,G4,equity: headway above cap,min,4,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-EQUITY,relaxed,0.75,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177373.41256754316,0.0,True,175794.85444348812,
+P-EQUITY,relaxed,0.75,G2,unserved demand Z3,pax/day,2,0.0,1673.7799148499835,1673.7799148499835,False,1587.51182651419,target beyond the best possible value (ideal)
+P-EQUITY,relaxed,0.75,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77050.50755411256,0.0,True,74501.12848484848,
+P-EQUITY,relaxed,0.75,G4,equity: headway above cap,min,1,0.0,0.0,0.0,True,0.0,
+P-BALANCED,relaxed,0.75,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177264.84183619317,0.0,True,175794.85444348812,
+P-BALANCED,relaxed,0.75,G2,unserved demand Z3,pax/day,weighted,0.0,1673.7799148499835,1673.7799148499835,False,1587.51182651419,target beyond the best possible value (ideal)
+P-BALANCED,relaxed,0.75,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77084.30755411254,0.0,True,74501.12848484848,
+P-BALANCED,relaxed,0.75,G4,equity: headway above cap,min,weighted,0.0,0.0,0.0,True,0.0,
+CHEBYSHEV,relaxed,0.75,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177891.72098303481,506.21261326558306,False,175794.85444348812,traded off for a higher-priority goal
+CHEBYSHEV,relaxed,0.75,G2,unserved demand Z3,pax/day,weighted,0.0,1587.51182651419,1587.51182651419,False,1587.51182651419,target beyond the best possible value (ideal)
+CHEBYSHEV,relaxed,0.75,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77082.84162337662,0.0,True,74501.12848484848,
+CHEBYSHEV,relaxed,0.75,G4,equity: headway above cap,min,weighted,0.0,100.0,100.0,False,0.0,traded off for a higher-priority goal
+P-PASSENGER,relaxed,1.0,G1,passenger waiting Z1,pax*min/h,2,177385.50836976923,177194.92387675942,0.0,True,175794.85444348812,
+P-PASSENGER,relaxed,1.0,G2,unserved demand Z3,pax/day,1,0.0,1150.3038845639267,1150.3038845639267,False,1150.3038845639267,target beyond the best possible value (ideal)
+P-PASSENGER,relaxed,1.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77011.7220995671,0.0,True,74501.12848484848,
+P-PASSENGER,relaxed,1.0,G4,equity: headway above cap,min,3,0.0,50.0,50.0,False,0.0,traded off for a higher-priority goal
+P-OPERATOR,relaxed,1.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177194.92387675942,0.0,True,175794.85444348812,
+P-OPERATOR,relaxed,1.0,G2,unserved demand Z3,pax/day,2,0.0,1150.3038845639267,1150.3038845639267,False,1150.3038845639267,target beyond the best possible value (ideal)
+P-OPERATOR,relaxed,1.0,G3,vehicle-km Z2,veh-km/day,1,77093.94056515151,77011.7220995671,0.0,True,74501.12848484848,
+P-OPERATOR,relaxed,1.0,G4,equity: headway above cap,min,4,0.0,50.0,50.0,False,0.0,traded off for a higher-priority goal
+P-EQUITY,relaxed,1.0,G1,passenger waiting Z1,pax*min/h,3,177385.50836976923,177251.22478027642,0.0,True,175794.85444348812,
+P-EQUITY,relaxed,1.0,G2,unserved demand Z3,pax/day,2,0.0,1213.9402482002906,1213.9402482002906,False,1150.3038845639267,target beyond the best possible value (ideal)
+P-EQUITY,relaxed,1.0,G3,vehicle-km Z2,veh-km/day,4,77093.94056515151,77091.98755411255,0.0,True,74501.12848484848,
+P-EQUITY,relaxed,1.0,G4,equity: headway above cap,min,1,0.0,0.0,0.0,True,0.0,
+P-BALANCED,relaxed,1.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177264.84183619317,0.0,True,175794.85444348812,
+P-BALANCED,relaxed,1.0,G2,unserved demand Z3,pax/day,weighted,0.0,1213.9402482002906,1213.9402482002906,False,1150.3038845639267,target beyond the best possible value (ideal)
+P-BALANCED,relaxed,1.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77084.30755411254,0.0,True,74501.12848484848,
+P-BALANCED,relaxed,1.0,G4,equity: headway above cap,min,weighted,0.0,0.0,0.0,True,0.0,
+CHEBYSHEV,relaxed,1.0,G1,passenger waiting Z1,pax*min/h,weighted,177385.50836976923,177332.27783604764,0.0,True,175794.85444348812,
+CHEBYSHEV,relaxed,1.0,G2,unserved demand Z3,pax/day,weighted,0.0,1150.3038845639267,1150.3038845639267,False,1150.3038845639267,target beyond the best possible value (ideal)
+CHEBYSHEV,relaxed,1.0,G3,vehicle-km Z2,veh-km/day,weighted,77093.94056515151,77081.8820995671,0.0,True,74501.12848484848,
+CHEBYSHEV,relaxed,1.0,G4,equity: headway above cap,min,weighted,0.0,50.0,50.0,False,0.0,traded off for a higher-priority goal

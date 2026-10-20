@@ -1,0 +1,4 @@
+fleet_cut,B_eff,feasible,reason,status,base_mean_wait_min,opt_mean_wait_min,base_overflow_pax,opt_overflow_pax,base_vehicle_km,opt_vehicle_km,base_fleet_used,opt_fleet_used,base_P_overflow_gt_5pct,opt_P_overflow_gt_5pct,wait_improvement_pct
+0.0,357,True,,Optimal,17.938094692274124,17.34347054564569,2248.8129460768364,1586.3112204221889,79478.28924242427,77045.46255411256,385.0,357.0,0.656,0.0285,3.3148679211986547
+0.05,339,False,AM: minimum buses 352 exceed B_eff = 339; Midday: minimum buses 353 exceed B_eff = 339; PM: minimum buses 348 exceed B_eff = 339,,,,,,,,,,,,
+0.1,321,False,AM: minimum buses 352 exceed B_eff = 321; Midday: minimum buses 353 exceed B_eff = 321; PM: minimum buses 348 exceed B_eff = 321,,,,,,,,,,,,

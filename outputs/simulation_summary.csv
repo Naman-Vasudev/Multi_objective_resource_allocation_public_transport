@@ -1,0 +1,157 @@
+label,schedule,metric,mean,sd,p5,p95
+"synthetic demand, illustrative",Baseline,total_wait_pax_min,760256.6024629553,39568.59704700508,696513.2518470634,823923.9325964637
+"synthetic demand, illustrative",Baseline,mean_wait_min,17.938094692274124,0.08596040176621869,17.80054370919273,18.086477001748776
+"synthetic demand, illustrative",Baseline,ewt_min,1.4811270846831843,0.00709764785225659,1.4697696640617846,1.4933788350067794
+"synthetic demand, illustrative",Baseline,overflow_pax,2248.8129460768364,402.3182148737111,1621.9602823197795,2922.7587536626324
+"synthetic demand, illustrative",Baseline,overflow_share,0.05274130275260296,0.006980935449908781,0.04128544868108424,0.0643455652246493
+"synthetic demand, illustrative",Baseline,demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",Baseline,vehicle_km,79478.28924242427,2.911110914396936e-11,79478.28924242425,79478.28924242425
+"synthetic demand, illustrative",Baseline,fleet_used,385.0,0.0,385.0,385.0
+"synthetic demand, illustrative",Baseline,mean_LF,0.5641058201178838,0.029408104095164967,0.5165298469503141,0.6117847095114031
+"synthetic demand, illustrative",Baseline,n_routes_LF_gt_1,11.594,1.0137444643101434,10.0,13.0
+"synthetic demand, illustrative",Baseline,gini_LF,0.40237429684676357,0.004770141802285148,0.3945712992615842,0.41028822765122314
+"synthetic demand, illustrative",Baseline,equity_excess_min,210.0,0.0,210.0,210.0
+"synthetic demand, illustrative",Baseline,P(overflow > 5% of demand),0.656,,,
+"synthetic demand, illustrative",Baseline (peak f_max),total_wait_pax_min,760265.8055160062,39579.263979204334,696415.5727826558,823397.6529719619
+"synthetic demand, illustrative",Baseline (peak f_max),mean_wait_min,17.938300111258204,0.08650258018605513,17.79734304768994,18.0863214007672
+"synthetic demand, illustrative",Baseline (peak f_max),ewt_min,1.481144045883705,0.007142414877747677,1.469505389258802,1.49336598721931
+"synthetic demand, illustrative",Baseline (peak f_max),overflow_pax,2230.3231827373593,401.545812077724,1604.4205587565084,2903.1223900262685
+"synthetic demand, illustrative",Baseline (peak f_max),overflow_share,0.05230489768275987,0.006981710645774917,0.04080494495501414,0.06392057455780573
+"synthetic demand, illustrative",Baseline (peak f_max),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",Baseline (peak f_max),vehicle_km,79464.7809090909,1.455555457198468e-11,79464.78090909091,79464.78090909091
+"synthetic demand, illustrative",Baseline (peak f_max),fleet_used,385.0,0.0,385.0,385.0
+"synthetic demand, illustrative",Baseline (peak f_max),mean_LF,0.5578258843339331,0.029087719593498512,0.5105849717221113,0.6048710110894002
+"synthetic demand, illustrative",Baseline (peak f_max),n_routes_LF_gt_1,11.587,1.0163402352248327,10.0,13.0
+"synthetic demand, illustrative",Baseline (peak f_max),gini_LF,0.4016623887359062,0.0048040399323671995,0.39380882430714814,0.4096311918502364
+"synthetic demand, illustrative",Baseline (peak f_max),equity_excess_min,210.0,0.0,210.0,210.0
+"synthetic demand, illustrative",Baseline (peak f_max),P(overflow > 5% of demand),0.6265,,,
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),total_wait_pax_min,733212.0816271439,38078.8878373179,671583.4810863208,794478.0672091669
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),mean_wait_min,17.300009821385697,0.06622105563168472,17.192381446304925,17.408162007630242
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),ewt_min,1.4284411779125803,0.005467793584267543,1.4195544313462782,1.4373711749419467
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),overflow_pax,1535.1949046873103,332.0820956699115,1033.3110787978114,2115.5643941191943
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),overflow_share,0.03594686564840391,0.0060961580637457335,0.026287568074774788,0.04651457109932807
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),vehicle_km,77466.10707792208,0.0,77466.10707792208,77466.10707792208
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),mean_LF,0.541641761689245,0.028171590199112747,0.49591573424454755,0.5873830148184247
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),n_routes_LF_gt_1,10.3055,1.8796106559894405,8.0,14.0
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),gini_LF,0.37345368576320864,0.00461858549420956,0.36601738300369047,0.38131338343949933
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),equity_excess_min,100.0,0.0,100.0,100.0
+"synthetic demand, illustrative",P-PASSENGER (α=0.5),P(overflow > 5% of demand),0.0145,,,
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),total_wait_pax_min,735285.9127189084,38185.69722062028,673423.0727857659,796747.5382539134
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),mean_wait_min,17.348941552404423,0.06612248815869046,17.243006893552693,17.456878158517362
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),ewt_min,1.4324814125838512,0.0054596549855799445,1.423734514146552,1.4413936094188642
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),overflow_pax,1535.1949046873103,332.0820956699115,1033.3110787978114,2115.5643941191943
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),overflow_share,0.03594686564840391,0.0060961580637457335,0.026287568074774788,0.04651457109932807
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),vehicle_km,77087.86707792207,0.0,77087.86707792207,77087.86707792207
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),mean_LF,0.5425640989647416,0.028218510918720702,0.4967190657436649,0.5883957941413059
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),n_routes_LF_gt_1,10.3055,1.8796106559894405,8.0,14.0
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),gini_LF,0.37267209153740705,0.004618456699003961,0.36534281911083055,0.3805443678147502
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),equity_excess_min,100.0,0.0,100.0,100.0
+"synthetic demand, illustrative",P-OPERATOR (α=0.5),P(overflow > 5% of demand),0.0145,,,
+"synthetic demand, illustrative",P-EQUITY (α=0.5),total_wait_pax_min,734952.1458293607,38168.81117294097,673380.0826830686,796179.2898212043
+"synthetic demand, illustrative",P-EQUITY (α=0.5),mean_wait_min,17.34106139564114,0.06478743480392647,17.236715853349786,17.44981057640062
+"synthetic demand, illustrative",P-EQUITY (α=0.5),ewt_min,1.4318307574382594,0.005349421222342547,1.4232150704600735,1.440810047592711
+"synthetic demand, illustrative",P-EQUITY (α=0.5),overflow_pax,1586.307045033826,352.8926928827662,1057.3509407735185,2210.8850197051365
+"synthetic demand, illustrative",P-EQUITY (α=0.5),overflow_share,0.03713013473757213,0.006522750199679622,0.026806375275144113,0.04831543144034036
+"synthetic demand, illustrative",P-EQUITY (α=0.5),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-EQUITY (α=0.5),vehicle_km,77041.44255411254,1.455555457198468e-11,77041.44255411255,77041.44255411255
+"synthetic demand, illustrative",P-EQUITY (α=0.5),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-EQUITY (α=0.5),mean_LF,0.541410292471702,0.0281462038722258,0.4960152617753623,0.586901975433048
+"synthetic demand, illustrative",P-EQUITY (α=0.5),n_routes_LF_gt_1,11.396,1.7124982701195879,9.0,14.0
+"synthetic demand, illustrative",P-EQUITY (α=0.5),gini_LF,0.3710516668415251,0.004520281724568818,0.3637185115287274,0.37842858341014163
+"synthetic demand, illustrative",P-EQUITY (α=0.5),equity_excess_min,0.0,0.0,0.0,0.0
+"synthetic demand, illustrative",P-EQUITY (α=0.5),P(overflow > 5% of demand),0.0285,,,
+"synthetic demand, illustrative",P-BALANCED (α=0.5),total_wait_pax_min,735054.412253685,38176.60239213213,673487.3280282338,796347.6598996758
+"synthetic demand, illustrative",P-BALANCED (α=0.5),mean_wait_min,17.34347054564569,0.06460415009287764,17.239826352666505,17.45138212658855
+"synthetic demand, illustrative",P-BALANCED (α=0.5),ewt_min,1.4320296780808366,0.005334287622347696,1.4234719006788856,1.4409398086174032
+"synthetic demand, illustrative",P-BALANCED (α=0.5),overflow_pax,1586.3112204221889,352.903530148969,1057.3509407735185,2210.8850197051365
+"synthetic demand, illustrative",P-BALANCED (α=0.5),overflow_share,0.03713022233742147,0.006522948139586794,0.026806375275144113,0.04831543144034036
+"synthetic demand, illustrative",P-BALANCED (α=0.5),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-BALANCED (α=0.5),vehicle_km,77045.46255411256,0.0,77045.46255411256,77045.46255411256
+"synthetic demand, illustrative",P-BALANCED (α=0.5),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-BALANCED (α=0.5),mean_LF,0.5412100047257472,0.02813871603203441,0.49576994926323936,0.5866236991295212
+"synthetic demand, illustrative",P-BALANCED (α=0.5),n_routes_LF_gt_1,11.3975,1.714340465489807,9.0,14.0
+"synthetic demand, illustrative",P-BALANCED (α=0.5),gini_LF,0.3717246258122847,0.004514695371417205,0.3643596259160894,0.3790685024905021
+"synthetic demand, illustrative",P-BALANCED (α=0.5),equity_excess_min,0.0,0.0,0.0,0.0
+"synthetic demand, illustrative",P-BALANCED (α=0.5),P(overflow > 5% of demand),0.0285,,,
+"synthetic demand, illustrative",P-PASSENGER (α=0),total_wait_pax_min,736789.825545824,38304.096244299275,674642.1520732067,798590.6076227997
+"synthetic demand, illustrative",P-PASSENGER (α=0),mean_wait_min,17.38439140554463,0.06957197002554141,17.271078795485444,17.4982338475579
+"synthetic demand, illustrative",P-PASSENGER (α=0),ewt_min,1.4354084646779968,0.005744474589264879,1.4260523776088894,1.4448082993396427
+"synthetic demand, illustrative",P-PASSENGER (α=0),overflow_pax,1637.955891011171,327.6285777844053,1137.7815905210855,2211.895358857284
+"synthetic demand, illustrative",P-PASSENGER (α=0),overflow_share,0.03838308769719372,0.005904099037526535,0.028985067570453594,0.048482488353450384
+"synthetic demand, illustrative",P-PASSENGER (α=0),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-PASSENGER (α=0),vehicle_km,77724.37922077927,4.366666371595404e-11,77724.37922077923,77724.37922077923
+"synthetic demand, illustrative",P-PASSENGER (α=0),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-PASSENGER (α=0),mean_LF,0.5455566234379644,0.028412496239035665,0.49972131391741914,0.5919961507471508
+"synthetic demand, illustrative",P-PASSENGER (α=0),n_routes_LF_gt_1,10.0065,1.3832622517905324,8.0,13.0
+"synthetic demand, illustrative",P-PASSENGER (α=0),gini_LF,0.3791567461881578,0.004735466495392816,0.3714467301042049,0.38690947668409104
+"synthetic demand, illustrative",P-PASSENGER (α=0),equity_excess_min,140.0,0.0,140.0,140.0
+"synthetic demand, illustrative",P-PASSENGER (α=0),P(overflow > 5% of demand),0.0295,,,
+"synthetic demand, illustrative",P-OPERATOR (α=0),total_wait_pax_min,740602.7002901082,38494.69624372411,678204.3205023052,802830.121730298
+"synthetic demand, illustrative",P-OPERATOR (α=0),mean_wait_min,17.474361348323264,0.06923310774511121,17.36133308634338,17.58697688404837
+"synthetic demand, illustrative",P-OPERATOR (α=0),ewt_min,1.442837175549627,0.005716495134917438,1.433504566762297,1.452135706022342
+"synthetic demand, illustrative",P-OPERATOR (α=0),overflow_pax,1637.955891011171,327.6285777844053,1137.7815905210855,2211.895358857284
+"synthetic demand, illustrative",P-OPERATOR (α=0),overflow_share,0.03838308769719372,0.005904099037526535,0.028985067570453594,0.048482488353450384
+"synthetic demand, illustrative",P-OPERATOR (α=0),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-OPERATOR (α=0),vehicle_km,77081.73922077919,2.911110914396936e-11,77081.73922077921,77081.73922077921
+"synthetic demand, illustrative",P-OPERATOR (α=0),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-OPERATOR (α=0),mean_LF,0.547254494187917,0.028496278288459808,0.5011781864801956,0.593738216751366
+"synthetic demand, illustrative",P-OPERATOR (α=0),n_routes_LF_gt_1,10.0065,1.3832622517905324,8.0,13.0
+"synthetic demand, illustrative",P-OPERATOR (α=0),gini_LF,0.3774250210680989,0.004736086238194902,0.3696780352253905,0.38524985231601544
+"synthetic demand, illustrative",P-OPERATOR (α=0),equity_excess_min,140.0,0.0,140.0,140.0
+"synthetic demand, illustrative",P-OPERATOR (α=0),P(overflow > 5% of demand),0.0295,,,
+"synthetic demand, illustrative",P-EQUITY (α=0),total_wait_pax_min,734107.6553174065,38127.88156944497,672745.2488295044,795171.4097562579
+"synthetic demand, illustrative",P-EQUITY (α=0),mean_wait_min,17.32112766228271,0.0632870329272407,17.218675546980922,17.42779482928694
+"synthetic demand, illustrative",P-EQUITY (α=0),ewt_min,1.430184852849031,0.005225534828854735,1.4217255038791585,1.438992233610848
+"synthetic demand, illustrative",P-EQUITY (α=0),overflow_pax,1583.4103723421456,350.31224494369235,1057.3509407735185,2202.2310534372946
+"synthetic demand, illustrative",P-EQUITY (α=0),overflow_share,0.03706481454636261,0.006470155237488381,0.026806375275144113,0.048226665621602924
+"synthetic demand, illustrative",P-EQUITY (α=0),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-EQUITY (α=0),vehicle_km,76992.89810966814,2.911110914396936e-11,76992.89810966811,76992.89810966811
+"synthetic demand, illustrative",P-EQUITY (α=0),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-EQUITY (α=0),mean_LF,0.541382797425198,0.028148706364436994,0.49615244443387607,0.5867296279979267
+"synthetic demand, illustrative",P-EQUITY (α=0),n_routes_LF_gt_1,11.3965,1.7131127013608247,9.0,14.0
+"synthetic demand, illustrative",P-EQUITY (α=0),gini_LF,0.36904275717767615,0.004524903704413002,0.36165774653920885,0.3763317686946642
+"synthetic demand, illustrative",P-EQUITY (α=0),equity_excess_min,0.0,0.0,0.0,0.0
+"synthetic demand, illustrative",P-EQUITY (α=0),P(overflow > 5% of demand),0.027,,,
+"synthetic demand, illustrative",P-BALANCED (α=0),total_wait_pax_min,734052.596758816,38116.769300673805,672612.9117418857,795353.6959464482
+"synthetic demand, illustrative",P-BALANCED (α=0),mean_wait_min,17.31983855284273,0.06335235203173174,17.217347228599404,17.425422183868196
+"synthetic demand, illustrative",P-BALANCED (α=0),ewt_min,1.4300784126200417,0.005230928149409036,1.4216158262146295,1.4387963271083828
+"synthetic demand, illustrative",P-BALANCED (α=0),overflow_pax,1583.4103723421456,350.31224494369235,1057.3509407735185,2202.2310534372946
+"synthetic demand, illustrative",P-BALANCED (α=0),overflow_share,0.03706481454636261,0.006470155237488381,0.026806375275144113,0.048226665621602924
+"synthetic demand, illustrative",P-BALANCED (α=0),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",P-BALANCED (α=0),vehicle_km,76975.14477633478,0.0,76975.14477633478,76975.14477633478
+"synthetic demand, illustrative",P-BALANCED (α=0),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",P-BALANCED (α=0),mean_LF,0.5411523622700534,0.02813265664610068,0.4959011626722671,0.5865130360987536
+"synthetic demand, illustrative",P-BALANCED (α=0),n_routes_LF_gt_1,11.3965,1.7131127013608247,9.0,14.0
+"synthetic demand, illustrative",P-BALANCED (α=0),gini_LF,0.36980083050831536,0.004519283532164871,0.3624296090364891,0.37707670766051643
+"synthetic demand, illustrative",P-BALANCED (α=0),equity_excess_min,0.0,0.0,0.0,0.0
+"synthetic demand, illustrative",P-BALANCED (α=0),P(overflow > 5% of demand),0.027,,,
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",total_wait_pax_min,735377.9768529104,38185.22680836324,673838.729194968,796907.7269093326
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",mean_wait_min,17.351112072316493,0.06378173060356879,17.247065342868463,17.45949699174148
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",ewt_min,1.4326606298242976,0.005266381425982735,1.4240696154662031,1.4416098433548006
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",overflow_pax,1696.9431419908772,361.1183389617989,1139.427882577521,2316.533994507494
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",overflow_share,0.039736990439946406,0.006614973907095258,0.02900104753675195,0.05084858677724747
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",vehicle_km,76881.08737373739,1.455555457198468e-11,76881.08737373738,76881.08737373738
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",mean_LF,0.5411573209133628,0.028130086407462583,0.49588318246789037,0.586492895116936
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",n_routes_LF_gt_1,11.2145,1.5766206317019176,9.0,14.0
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",gini_LF,0.37193762276543935,0.004534287309392332,0.3645842139166414,0.3793449343965634
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",equity_excess_min,0.0,0.0,0.0,0.0
+"synthetic demand, illustrative","P-BALANCED ROBUST (α=0, spreads ×1.5)",P(overflow > 5% of demand),0.0655,,,
+"synthetic demand, illustrative",KNEE (Pareto front),total_wait_pax_min,749202.0472833302,38906.70448777613,686460.7988859238,811734.9345798446
+"synthetic demand, illustrative",KNEE (Pareto front),mean_wait_min,17.677278592604207,0.06336766641937638,17.57099638774754,17.780859707352686
+"synthetic demand, illustrative",KNEE (Pareto front),ewt_min,1.4595918103985124,0.005232192640131993,1.4508162155020903,1.4681443795061848
+"synthetic demand, illustrative",KNEE (Pareto front),overflow_pax,1553.1156078741142,368.4322769504503,1006.2482818193258,2208.9850499037298
+"synthetic demand, illustrative",KNEE (Pareto front),overflow_share,0.03632638657206711,0.006900222707818695,0.025600512622343172,0.04810996491626598
+"synthetic demand, illustrative",KNEE (Pareto front),demand_pax,42382.07176804641,2193.0627049157697,38848.27173627996,45892.19397753987
+"synthetic demand, illustrative",KNEE (Pareto front),vehicle_km,75564.22755411256,0.0,75564.22755411256,75564.22755411256
+"synthetic demand, illustrative",KNEE (Pareto front),fleet_used,357.0,0.0,357.0,357.0
+"synthetic demand, illustrative",KNEE (Pareto front),mean_LF,0.5505127679253895,0.028616128889540307,0.5042796113299222,0.5966054945254614
+"synthetic demand, illustrative",KNEE (Pareto front),n_routes_LF_gt_1,12.059,2.0013799641448498,9.0,15.0
+"synthetic demand, illustrative",KNEE (Pareto front),gini_LF,0.36646333601310516,0.00445301291321287,0.3592077357435289,0.3737918321726759
+"synthetic demand, illustrative",KNEE (Pareto front),equity_excess_min,30.0,0.0,30.0,30.0
+"synthetic demand, illustrative",KNEE (Pareto front),P(overflow > 5% of demand),0.029,,,

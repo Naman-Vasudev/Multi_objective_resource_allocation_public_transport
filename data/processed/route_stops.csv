@@ -1,0 +1,1277 @@
+route_no,stop,n_routes_serving
+1,ISBT-17,47
+101,ISBT-17,47
+11,ISBT-17,47
+123A,ISBT-17,47
+14,ISBT-17,47
+17,ISBT-17,47
+202,ISBT-17,47
+206,ISBT-17,47
+212,ISBT-17,47
+214,ISBT-17,47
+216,ISBT-17,47
+219,ISBT-17,47
+22,ISBT-17,47
+239,ISBT-17,47
+23B,ISBT-17,47
+240,ISBT-17,47
+24C,ISBT-17,47
+25/25A,ISBT-17,47
+26,ISBT-17,47
+28,ISBT-17,47
+28A,ISBT-17,47
+2A,ISBT-17,47
+2C,ISBT-17,47
+2F,ISBT-17,47
+30,ISBT-17,47
+30B,ISBT-17,47
+31,ISBT-17,47
+32,ISBT-17,47
+32B,ISBT-17,47
+34,ISBT-17,47
+35,ISBT-17,47
+35A,ISBT-17,47
+35B,ISBT-17,47
+35D,ISBT-17,47
+37,ISBT-17,47
+38AB,ISBT-17,47
+38B,ISBT-17,47
+39,ISBT-17,47
+40,ISBT-17,47
+4C,ISBT-17,47
+7,ISBT-17,47
+70A,ISBT-17,47
+71,ISBT-17,47
+76,ISBT-17,47
+79,ISBT-17,47
+80,ISBT-17,47
+85,ISBT-17,47
+10,ISBT-43,39
+101,ISBT-43,39
+123A,ISBT-43,39
+14,ISBT-43,39
+17,ISBT-43,39
+18,ISBT-43,39
+20,ISBT-43,39
+202,ISBT-43,39
+206,ISBT-43,39
+20A,ISBT-43,39
+213,ISBT-43,39
+216,ISBT-43,39
+22,ISBT-43,39
+239,ISBT-43,39
+23A,ISBT-43,39
+240,ISBT-43,39
+241,ISBT-43,39
+242,ISBT-43,39
+24A,ISBT-43,39
+24C,ISBT-43,39
+28A,ISBT-43,39
+28B,ISBT-43,39
+30,ISBT-43,39
+30A,ISBT-43,39
+30B,ISBT-43,39
+35B,ISBT-43,39
+37,ISBT-43,39
+38AB,ISBT-43,39
+38B,ISBT-43,39
+39,ISBT-43,39
+4A,ISBT-43,39
+4C,ISBT-43,39
+551,ISBT-43,39
+5A,ISBT-43,39
+5C,ISBT-43,39
+6,ISBT-43,39
+71,ISBT-43,39
+8,ISBT-43,39
+85,ISBT-43,39
+1,PGI,33
+101,PGI,33
+123A,PGI,33
+212,PGI,33
+214,PGI,33
+219,PGI,33
+23A,PGI,33
+23B,PGI,33
+242,PGI,33
+24A,PGI,33
+25/25A,PGI,33
+26,PGI,33
+28A,PGI,33
+2A,PGI,33
+2C,PGI,33
+2F,PGI,33
+2G,PGI,33
+31,PGI,33
+32,PGI,33
+32B,PGI,33
+34,PGI,33
+35A,PGI,33
+38B,PGI,33
+39,PGI,33
+40,PGI,33
+4A,PGI,33
+4C,PGI,33
+5A,PGI,33
+5C,PGI,33
+70A,PGI,33
+79,PGI,33
+8,PGI,33
+80,PGI,33
+101,Aroma,22
+123A,Aroma,22
+17,Aroma,22
+20,Aroma,22
+20A,Aroma,22
+216,Aroma,22
+219,Aroma,22
+239,Aroma,22
+23A,Aroma,22
+240,Aroma,22
+242,Aroma,22
+24A,Aroma,22
+30,Aroma,22
+30B,Aroma,22
+35,Aroma,22
+35B,Aroma,22
+38AB,Aroma,22
+7,Aroma,22
+79,Aroma,22
+8,Aroma,22
+80,Aroma,22
+85,Aroma,22
+14,23/22,18
+17,23/22,18
+18,23/22,18
+202,23/22,18
+206,23/22,18
+216,23/22,18
+22,23/22,18
+240,23/22,18
+24C,23/22,18
+28,23/22,18
+28A,23/22,18
+30,23/22,18
+30B,23/22,18
+37,23/22,18
+39,23/22,18
+7,23/22,18
+71,23/22,18
+85,23/22,18
+101,PEC,16
+123A,PEC,16
+212,PEC,16
+214,PEC,16
+219,PEC,16
+23A,PEC,16
+242,PEC,16
+31,PEC,16
+34,PEC,16
+35A,PEC,16
+38B,PEC,16
+39,PEC,16
+551,PEC,16
+79,PEC,16
+8,PEC,16
+80,PEC,16
+212,New OPD,12
+23A,New OPD,12
+242,New OPD,12
+2F,New OPD,12
+31,New OPD,12
+32B,New OPD,12
+34,New OPD,12
+35A,New OPD,12
+38B,New OPD,12
+4C,New OPD,12
+70A,New OPD,12
+80,New OPD,12
+18,Attawa,12
+206,Attawa,12
+216,Attawa,12
+24C,Attawa,12
+28B,Attawa,12
+30,Attawa,12
+30A,Attawa,12
+30B,Attawa,12
+35,Attawa,12
+37,Attawa,12
+38B,Attawa,12
+85,Attawa,12
+101,10/16,10
+123A,10/16,10
+219,10/16,10
+26,10/16,10
+2C,10/16,10
+2F,10/16,10
+32B,10/16,10
+5C,10/16,10
+79,10/16,10
+80,10/16,10
+11,7/19,10
+206,7/19,10
+28,7/19,10
+2C,7/19,10
+2F,7/19,10
+2G,7/19,10
+31,7/19,10
+32,7/19,10
+32B,7/19,10
+5C,7/19,10
+1,Manimajra,9
+10,Manimajra,9
+28,Manimajra,9
+2A,Manimajra,9
+30,Manimajra,9
+37,Manimajra,9
+70A,Manimajra,9
+9A,Manimajra,9
+9C,Manimajra,9
+11,8/18,9
+206,8/18,9
+28,8/18,9
+2C,8/18,9
+2F,8/18,9
+2G,8/18,9
+31,8/18,9
+32B,8/18,9
+5C,8/18,9
+239,35/34,9
+23A,35/34,9
+240,35/34,9
+242,35/34,9
+24A,35/34,9
+551,35/34,9
+6,35/34,9
+71,35/34,9
+8,35/34,9
+101,OPD,9
+123A,OPD,9
+214,OPD,9
+219,OPD,9
+26,OPD,9
+32,OPD,9
+39,OPD,9
+79,OPD,9
+8,OPD,9
+212,Zirakpur,9
+213,Zirakpur,9
+216,Zirakpur,9
+219,Zirakpur,9
+26,Zirakpur,9
+34,Zirakpur,9
+79,Zirakpur,9
+80,Zirakpur,9
+85,Zirakpur,9
+10,Colony No.4,8
+17,Colony No.4,8
+240,Colony No.4,8
+26,Colony No.4,8
+2A,Colony No.4,8
+2C,Colony No.4,8
+30A,Colony No.4,8
+80,Colony No.4,8
+11,26/27,8
+206,26/27,8
+2F,26/27,8
+2G,26/27,8
+30,26/27,8
+32B,26/27,8
+5C,26/27,8
+9C,26/27,8
+10,Tribune Chowk,8
+213,Tribune Chowk,8
+216,Tribune Chowk,8
+6,Tribune Chowk,8
+79,Tribune Chowk,8
+85,Tribune Chowk,8
+9A,Tribune Chowk,8
+9C,Tribune Chowk,8
+202,36/35,8
+216,36/35,8
+22,36/35,8
+28,36/35,8
+30,36/35,8
+30A,36/35,8
+30B,36/35,8
+39,36/35,8
+1,R/Crossing,7
+206,R/Crossing,7
+22,R/Crossing,7
+240,R/Crossing,7
+241,R/Crossing,7
+2C,R/Crossing,7
+71,R/Crossing,7
+10,Railway Station,7
+11,Railway Station,7
+2A,Railway Station,7
+31,Railway Station,7
+32B,Railway Station,7
+70A,Railway Station,7
+9A,Railway Station,7
+240,Kalagram,7
+28,Kalagram,7
+2C,Kalagram,7
+30,Kalagram,7
+30A,Kalagram,7
+30B,Kalagram,7
+31,Kalagram,7
+212,Hallo Majra,7
+213,Hallo Majra,7
+216,Hallo Majra,7
+26,Hallo Majra,7
+34,Hallo Majra,7
+6,Hallo Majra,7
+79,Hallo Majra,7
+14,Mansa Devi,7
+241,Mansa Devi,7
+31,Mansa Devi,7
+70A,Mansa Devi,7
+71,Mansa Devi,7
+9A,Mansa Devi,7
+9C,Mansa Devi,7
+18,17/18,7
+202,17/18,7
+206,17/18,7
+239,17/18,7
+2F,17/18,7
+31,17/18,7
+32B,17/18,7
+22,CTU w/s,7
+240,CTU w/s,7
+241,CTU w/s,7
+26,CTU w/s,7
+2F,CTU w/s,7
+30A,CTU w/s,7
+37,CTU w/s,7
+219,Dhanas,6
+28B,Dhanas,6
+2A,Dhanas,6
+2C,Dhanas,6
+4A,Dhanas,6
+4C,Dhanas,6
+28B,DMC,6
+2A,DMC,6
+2C,DMC,6
+31,DMC,6
+4A,DMC,6
+4C,DMC,6
+22,R/Station,6
+240,R/Station,6
+241,R/Station,6
+28,R/Station,6
+2C,R/Station,6
+30A,R/Station,6
+23A,22/17,6
+24A,22/17,6
+2C,22/17,6
+39,22/17,6
+551,22/17,6
+8,22/17,6
+28,Maloya,6
+4A,Maloya,6
+4C,Maloya,6
+5A,Maloya,6
+5C,Maloya,6
+6,Maloya,6
+202,Sec-43/44,6
+23A,Sec-43/44,6
+240,Sec-43/44,6
+24A,Sec-43/44,6
+28A,Sec-43/44,6
+71,Sec-43/44,6
+25/25A,Mullanpur,6
+26,Mullanpur,6
+28A,Mullanpur,6
+28B,Mullanpur,6
+40,Mullanpur,6
+76,Mullanpur,6
+206,M/Majra,6
+22,M/Majra,6
+240,M/Majra,6
+241,M/Majra,6
+32,M/Majra,6
+71,M/Majra,6
+206,Kissan Bhawan,6
+216,Kissan Bhawan,6
+240,Kissan Bhawan,6
+35,Kissan Bhawan,6
+35B,Kissan Bhawan,6
+85,Kissan Bhawan,6
+1,17/16,5
+101,17/16,5
+214,17/16,5
+2F,17/16,5
+32B,17/16,5
+10,Railway Crossing,5
+2A,Railway Crossing,5
+30A,Railway Crossing,5
+32B,Railway Crossing,5
+9A,Railway Crossing,5
+219,Khuda Lahora,5
+28A,Khuda Lahora,5
+2A,Khuda Lahora,5
+4A,Khuda Lahora,5
+4C,Khuda Lahora,5
+10,CTU Workshop,5
+2A,CTU Workshop,5
+31,CTU Workshop,5
+70A,CTU Workshop,5
+9A,CTU Workshop,5
+17,Elante Mall,5
+240,Elante Mall,5
+2A,Elante Mall,5
+2C,Elante Mall,5
+80,Elante Mall,5
+28A,11/15,5
+2C,11/15,5
+35A,11/15,5
+40,11/15,5
+5C,11/15,5
+17,Sec-36/35,5
+18,Sec-36/35,5
+24C,Sec-36/35,5
+28B,Sec-36/35,5
+37,Sec-36/35,5
+23A,16/10,5
+242,16/10,5
+2G,16/10,5
+35A,16/10,5
+39,16/10,5
+17,Sec 42/43,5
+18,Sec 42/43,5
+30,Sec 42/43,5
+30B,Sec 42/43,5
+37,Sec 42/43,5
+101,Sohana,5
+20,Sohana,5
+213,Sohana,5
+242,Sohana,5
+38B,Sohana,5
+20,Kharar,5
+20A,Kharar,5
+35,Kharar,5
+35B,Kharar,5
+35D,Kharar,5
+212,Airport,5
+219,Airport,5
+26,Airport,5
+34,Airport,5
+79,Airport,5
+212,Derabassi,5
+213,Derabassi,5
+216,Derabassi,5
+32,Derabassi,5
+34,Derabassi,5
+1,New Maloya Colony,4
+28,New Maloya Colony,4
+6,New Maloya Colony,4
+7,New Maloya Colony,4
+2C,CTU W/Shop,4
+31,CTU W/Shop,4
+32B,CTU W/Shop,4
+9C,CTU W/Shop,4
+28,26/28,4
+2C,26/28,4
+32,26/28,4
+9C,26/28,4
+212,Aroma Chowk,4
+34,Aroma Chowk,4
+4A,Aroma Chowk,4
+4C,Aroma Chowk,4
+10,Ram Darbar,4
+5A,Ram Darbar,4
+5C,Ram Darbar,4
+9A,Ram Darbar,4
+17,20Mkt,4
+219,20Mkt,4
+7,20Mkt,4
+79,20Mkt,4
+241,19/27,4
+30,19/27,4
+30B,19/27,4
+9C,19/27,4
+202,42/43,4
+28B,42/43,4
+39,42/43,4
+85,42/43,4
+101,44/43,4
+123A,44/43,4
+38AB,44/43,4
+8,44/43,4
+23A,16/17,4
+35A,16/17,4
+551,16/17,4
+8,16/17,4
+101,YPS,4
+20,YPS,4
+20A,YPS,4
+241,YPS,4
+20,Landran,4
+20A,Landran,4
+213,Landran,4
+242,Landran,4
+206,H/B Chowk,4
+22,H/B Chowk,4
+240,H/B Chowk,4
+241,H/B Chowk,4
+214,Nada Sahib,4
+30,Nada Sahib,4
+30B,Nada Sahib,4
+32,Nada Sahib,4
+35,Daun,4
+35A,Daun,4
+35B,Daun,4
+35D,Daun,4
+123A,11/10,4
+242,11/10,4
+39,11/10,4
+551,11/10,4
+214,S.P. Barrier,4
+219,S.P. Barrier,4
+25/25A,S.P. Barrier,4
+40,S.P. Barrier,4
+1,24/25,3
+2C,24/25,3
+35A,24/25,3
+1,19Mkt,3
+214,19Mkt,3
+30,19Mkt,3
+1,27Mkt,3
+214,27Mkt,3
+30B,27Mkt,3
+2A,Sukhna Path Barrier,3
+4A,Sukhna Path Barrier,3
+4C,Sukhna Path Barrier,3
+35D,Phase-6,3
+4A,Phase-6,3
+4C,Phase-6,3
+212,Sector 10/16,3
+34,Sector 10/16,3
+4C,Sector 10/16,3
+239,43/44,3
+242,43/44,3
+6,43/44,3
+6,Ramdarbar,3
+7,Ramdarbar,3
+9C,Ramdarbar,3
+6,Raipur Kalan,3
+80,Raipur Kalan,3
+85,Raipur Kalan,3
+17,21Mkt,3
+30B,21Mkt,3
+7,21Mkt,3
+2G,Housing Board,3
+31,Housing Board,3
+9A,Housing Board,3
+20A,PSEB,3
+9A,PSEB,3
+9C,PSEB,3
+23B,GMCH-16,3
+31,GMCH-16,3
+70A,GMCH-16,3
+25/25A,Parol,3
+28B,Parol,3
+40,Parol,3
+18,MLA Flat,3
+202,MLA Flat,3
+239,MLA Flat,3
+22,19,3
+70A,19,3
+71,19,3
+14,Kishangarh,3
+206,Kishangarh,3
+22,Kishangarh,3
+14,IT Park,3
+206,IT Park,3
+22,IT Park,3
+20,Lakhnaur,3
+20A,Lakhnaur,3
+242,Lakhnaur,3
+28,H.Board,3
+30,H.Board,3
+30B,H.Board,3
+30,G.Mkt-26,3
+30B,G.Mkt-26,3
+32,G.Mkt-26,3
+30,R/C,3
+30B,R/C,3
+32,R/C,3
+219,29/31,3
+30A,29/31,3
+85,29/31,3
+30B,Ramgarh,3
+32,Ramgarh,3
+32B,Ramgarh,3
+35,Balongi,3
+35A,Balongi,3
+35B,Balongi,3
+25/25A,Block,3
+40,Block,3
+76,Block,3
+219,Sec-21,3
+240,Sec-21,3
+79,Sec-21,3
+1,25/38,2
+7,25/38,2
+1,18Mkt,2
+214,18Mkt,2
+1,28Mkt,2
+214,28Mkt,2
+1,CTU W/shop,2
+11,CTU W/shop,2
+206,Indira Colony,2
+2A,Indira Colony,2
+2A,M.M. Town,2
+2C,M.M. Town,2
+2A,Sector 28/26 Grain Market,2
+9A,Sector 28/26 Grain Market,2
+2A,Sector 19/7,2
+5A,Sector 19/7,2
+2A,Sector 18/8,2
+5A,Sector 18/8,2
+2A,Sector 22/17,2
+4A,Sector 22/17,2
+2A,Sector 16/10,2
+5A,Sector 16/10,2
+2A,Sector 15/11,2
+5A,Sector 15/11,2
+10,Housing Board Chowk,2
+2A,Housing Board Chowk,2
+28B,38/25,2
+2C,38/25,2
+26,K.Lahora,2
+2C,K.Lahora,2
+4A,Sector 43/44,2
+4C,Sector 43/44,2
+4A,I.R.B. Complex,2
+4C,I.R.B. Complex,2
+4A,CTU Depot-III,2
+4C,CTU Depot-III,2
+4A,Sector 38 West,2
+4C,Sector 38 West,2
+4A,Old Barrier,2
+4C,Old Barrier,2
+4A,Franco Hotel,2
+4C,Franco Hotel,2
+4A,Badheri Chowk,2
+4C,Badheri Chowk,2
+4A,Sector 41 Market,2
+4C,Sector 41 Market,2
+4A,Sector 42 Market,2
+4C,Sector 42 Market,2
+10,Sector 47 Markets,2
+5A,Sector 47 Markets,2
+5C,25/24,2
+7,25/24,2
+35A,14/15,2
+5C,14/15,2
+2G,9/17,2
+5C,9/17,2
+28,38Mkt,2
+6,38Mkt,2
+28,37Mkt,2
+6,37Mkt,2
+35D,36/37,2
+6,36/37,2
+35D,41/42,2
+6,41/42,2
+17,30Mkt,2
+7,30Mkt,2
+213,Sec-46/47,2
+7,Sec-46/47,2
+7,47Mkt,2
+8,47Mkt,2
+9A,Phase-VIII,2
+9C,Phase-VIII,2
+30A,H.B Chowk,2
+9C,H.B Chowk,2
+8,Jagatpura,2
+9C,Jagatpura,2
+123A,63mkt,2
+9C,63mkt,2
+123A,62/63,2
+9C,62/63,2
+241,50mkt,2
+9C,50mkt,2
+241,45/46,2
+9C,45/46,2
+241,20/30,2
+9C,20/30,2
+241,G/Mkt-26,2
+9C,G/Mkt-26,2
+14,Sec-35/34,2
+28A,Sec-35/34,2
+26,S.P.Barrier,2
+28A,S.P.Barrier,2
+18,Lake,2
+239,Lake,2
+22,27,2
+70A,27,2
+26,2/11,2
+2F,2/11,2
+2F,TPT area,2
+32B,TPT area,2
+2F,10/15,2
+32B,10/15,2
+2F,Pkl B/S,2
+32B,Pkl B/S,2
+2F,Sec-4 Pkl,2
+30B,Sec-4 Pkl,2
+24A,16/10(Hospital),2
+8,16/10(Hospital),2
+17,H/Majra,2
+30A,H/Majra,2
+18,H/Court,2
+202,H/Court,2
+20,CHD,2
+20A,CHD,2
+20,33/34,2
+20A,33/34,2
+20,44/45,2
+20A,44/45,2
+20,Ph-7,2
+20A,Ph-7,2
+20,ChapparChiri,2
+20A,ChapparChiri,2
+20,SanteMajra,2
+20A,SanteMajra,2
+20A,Sec-21/34,2
+216,Sec-21/34,2
+22,Sec-42/43,2
+30A,Sec-42/43,2
+22,18,2
+71,18,2
+23A,15/11,2
+24A,15/11,2
+216,Sec42/43,2
+24C,Sec42/43,2
+214,Mullanpur Eco City,2
+26,Mullanpur Eco City,2
+30,20Mkts,2
+30B,20Mkts,2
+30,Command Hospital,2
+30A,Command Hospital,2
+214,Majri Chowk,2
+30,Majri Chowk,2
+30A,21/34,2
+85,21/34,2
+30A,20/33,2
+85,20/33,2
+30A,30/32,2
+85,30/32,2
+32,Mubarakpur,2
+34,Mubarakpur,2
+212,Piccadilly Chowk,2
+34,Piccadilly Chowk,2
+212,Sector 21/34,2
+34,Sector 21/34,2
+212,Sector 20/33,2
+34,Sector 20/33,2
+212,Sector 30/32,2
+34,Sector 30/32,2
+212,Sector 29/31,2
+34,Sector 29/31,2
+216,Bankharpur,2
+34,Bankharpur,2
+35,Sec-35/22,2
+35B,Sec-35/22,2
+35,35/36,2
+35B,35/36,2
+35,40/41,2
+35A,40/41,2
+35,F/Chowk,2
+35B,F/Chowk,2
+35,Ph-2,2
+35B,Ph-2,2
+35,Ph-6,2
+35B,Ph-6,2
+35,DesuMajra,2
+35B,DesuMajra,2
+35A,KFC,2
+35D,KFC,2
+241,27mkt,2
+37,27mkt,2
+214,M.Majra,2
+37,M.Majra,2
+242,Sec-22/17,2
+38B,Sec-22/17,2
+242,Tangori,2
+38B,Tangori,2
+25/25A,Sec-16/10,2
+40,Sec-16/10,2
+25/25A,Majra,2
+40,Majra,2
+25/25A,Boothgarh,2
+40,Boothgarh,2
+25/25A,Sialva,2
+40,Sialva,2
+25/25A,Khizrabad,2
+40,Khizrabad,2
+206,G/Mkt,2
+71,G/Mkt,2
+80,Hallomajra,2
+85,Hallomajra,2
+80,Mouli Jagran,2
+85,Mouli Jagran,2
+80,Baltana,2
+85,Baltana,2
+123A,34/35,2
+38AB,34/35,2
+123A,51mkt,2
+241,51mkt,2
+213,Airport Chowk,2
+216,Airport Chowk,2
+216,Sec-30/32,2
+219,Sec-30/32,2
+1,DaduMajra village,1
+1,CTU W/S,1
+1,15Mkt,1
+1,16Mkt,1
+1,R/Stn,1
+1,Kala Gram,1
+1,H.B.,1
+2A,M.M. Complex,1
+2A,Sector 25/38,1
+2A,Sector 25/24,1
+2A,Sector 24/15,1
+2A,Sector 23/16,1
+2A,Sector 18/21,1
+2A,Sector 19/20,1
+2A,Sector 27/30,1
+2A,Sector 28/29,1
+2C,Mani Majra,1
+2C,H.B. Chowk,1
+2C,Sec-29/28,1
+2C,30/27,1
+2C,20/19,1
+2C,21/18,1
+2C,16/23,1
+2C,15/24,1
+2C,SP Barrier,1
+2C,G.Mkt.,1
+2C,M/Complex,1
+2C,Indra Colony,1
+4A,Sector 35/34,1
+4A,Sector 16/17,1
+4A,Rose Garden,1
+4A,Sector 16/10 Hospital,1
+4A,New OPD (PGI),1
+4A,Sector 40/41,1
+4C,Sector 41/40,1
+4C,Sector 10/11,1
+4C,Sector 17/16,1
+4C,Sector 34/35,1
+4C,Sector 44/43,1
+5A,RamDarbar,1
+5A,Sector 47 Market,1
+5A,Sector 46/47,1
+5A,Sector 32/31,1
+5A,Sector 30/29,1
+5A,Sector 27/28,1
+5A,Sector 27/26,1
+5A,Sector 17/9,1
+5A,Panjab University,1
+5A,Sector 15/14,1
+5A,Sector 24/25,1
+5A,Sector 37/38,1
+5A,Sector 38/40,1
+5A,Sector 39/38 West,1
+5A,Sector 39,1
+5A,Sector 40,1
+5A,Sector 41,1
+5A,Sector 42 Markets,1
+5A,Sector 44,1
+5A,Sector 45,1
+5A,Sector 46,1
+5C,Sec-47 mkt,1
+5C,46,1
+5C,45,1
+5C,44 mkts,1
+5C,42,1
+5C,41,1
+5C,40,1
+5C,39 mkts,1
+5C,38W/39,1
+5C,38/40,1
+5C,38/37,1
+5C,Uni.,1
+5C,28/27,1
+5C,29/30,1
+5C,31/32,1
+5C,47/46,1
+5C,47 mkt,1
+6,38west,1
+6,Sec42,1
+6,34Mkt,1
+6,33Mkt,1
+6,32Mkt,1
+6,31Mkt,1
+6,Vikas Nagar,1
+7,Maloya Sec-38West Light Point,1
+7,24Mkt,1
+7,23Mkt,1
+7,Sec-29/30,1
+7,GMCH-32,1
+7,31/32 Mkt,1
+7,32 SD-College,1
+7,Industrial Area Phase-2,1
+9A,Sector 27/19,1
+9A,Sector 30/20,1
+9A,Sector 32/33,1
+9A,Sector 46/45,1
+9A,Sector 49/50,1
+9A,Sector 50 Market,1
+9A,Sector 50/51,1
+9A,Sector 62/63,1
+9A,Sector 63 Market,1
+9A,Sector 64/63,1
+9A,Sector 68/67,1
+9A,Sector 67/80,1
+9A,Sector 66/ISB-81,1
+9A,Sector 66/Industrial Area Phase-9,1
+9A,Mohali,1
+9A,Phase-11 (Outer),1
+9A,Sector 48/Jagatpura,1
+9A,Sector 47 (Outer),1
+9A,Industrial Area Phase-II,1
+9A,Sector 29 Nursery,1
+9A,Sector 28 Petrol Pump,1
+9C,M.majra,1
+9C,R.Crossing,1
+9C,R.Station,1
+9C,28 P.Pump,1
+9C,Indl. Area/Sec-29,1
+9C,Indl. Area Ph-2,1
+9C,Outer 47,1
+9C,Ph-11 (65 Mkt Outer),1
+9C,Sec-66/Ind. Area Phase-9 Mohali,1
+9C,Sec-ISB-81/66,1
+9C,Ind. Area Phase-9 Mohali/Sec-66,1
+9C,80/67,1
+9C,68/67,1
+9C,63/64,1
+9C,50/51,1
+9C,50/49,1
+9C,33/32,1
+9C,TPT/C,1
+9C,H.B.C,1
+11A,Rock Garden,1
+11A,BIRD PARK,1
+11A,Sukhna Lake,1
+23B,Sec-16/17 MC,1
+23B,Sec-16/10-Matka Chowk,1
+23B,Sec-15/11,1
+23B,Khuda Lahora Mod (Govt. High School-Sec-12) UT Border,1
+23B,Nayagaon Gate-1,1
+23B,Nayagaon Gate-2,1
+23B,Nayagaon Gate-3,1
+23B,Village Nada Bridge,1
+23B,Village Singha Devi Bridge,1
+23B,Badi Karoran,1
+28A,17/9,1
+28A,KC/16/10,1
+28A,ECO-City,1
+28A,DLF Chowk,1
+28A,Todde Majra,1
+28A,Rasulpur,1
+28A,Omax Phase-II,1
+28A,Rani Majra,1
+28B,37/24,1
+28B,S/P Barrier,1
+28B,Homi Bhaba,1
+28B,Majra T-Pont,1
+28B,Hosiarpur,1
+28B,Eco City,1
+28B,Eco City Block-2 (Takipur),1
+239,9/8 K.C. UT Sectt.,1
+239,H/Cout,1
+239,Bird Park,1
+70A,Jayanti Majri,1
+70A,Parch,1
+70A,Sarangpur Barrier,1
+70A,Sector 18,1
+70A,28 (Market),1
+2F,26/28 G.Mkt.,1
+2F,Rly/Stn,1
+2F,Rly/Crossing,1
+2F,H.B.Chowk,1
+2F,Panchkula Sector-8/17,1
+2F,9/16,1
+2F,11/12,1
+2F,Sec-21 Pkl,1
+2F,Sec-20 Pkl,1
+2F,Sushma Square/Dhakoli,1
+2F,Platinum Homes,1
+2G,Sec-11/15,1
+2G,Madhaya Marg,1
+2G,G-Mkt-26,1
+2G,Geeta Bhawan PKL,1
+2G,Panchkula Bus Stand,1
+8,Mohali Ph-XI,1
+8,Sec-49/48,1
+8,46Mkt,1
+8,45Mkt,1
+8,44Mkt,1
+10,Sector 44/51,1
+10,Sector 45 Market,1
+10,Sector 46 Market,1
+10,Poultry Farm,1
+11,Sec-26 G/Mkt,1
+11,UT Sectt.,1
+11,High Court,1
+11,CIVIL SECTT.,1
+17,29Mkts,1
+17,Behlana,1
+18,17 B/S,1
+18,9/8,1
+18,9mkt,1
+18,Pb.Civil.Sectt,1
+18,Kaimbwala,1
+14,Sec 43/44,1
+14,Sec-8/9,1
+14,Lake Chowk,1
+14,Mansa Devi Complex,1
+20,Sec-21Mkt,1
+20,20/21 divided,1
+20A,Fortis Hospital,1
+20A,Forest Complex,1
+20A,Kumbra Village,1
+20A,Sec-68/69 Sohana,1
+22,17/18 L/Point,1
+22,28 mkts,1
+23A,NayaGaon,1
+23A,Khuda Ali Sher,1
+26,10/11,1
+26,19/20,1
+26,28 P.P.,1
+26,R/S,1
+26,Dhakoli,1
+26,Golden Sand Apartment,1
+28,Daddu Majra Village,1
+28,38w,1
+28,36Mkt,1
+28,26-G/Mkt,1
+28,CTU/w/s,1
+30,21,1
+30A,K/Bhawan,1
+30A,22/35,1
+30A,Tribune,1
+30A,Fun Republic,1
+30A,Tank Chowk,1
+30A,Cantonment,1
+30B,11/15 Pkl,1
+30B,12/11 Pkl,1
+30B,Raily Chowk,1
+32,Sec-11/10,1
+32,Sec-10/16,1
+32,Sec-17/16,1
+32,Sec-8/18,1
+32,H/B,1
+32,Old Pkl,1
+32B,Sector-2/11,1
+32B,Grain Mkt-26,1
+32B,Kalagram H.B.Chowk,1
+32B,8/17 Pkl,1
+32B,9/16 Pkl,1
+32B,11/4 Outer,1
+32B,3/21 Pkl,1
+32B,Sec-24 Pkl,1
+32B,25 Pkl,1
+32B,26 Pkl,1
+32B,27/28 Pkl,1
+35,Sec-36/37,1
+35,Mundi Kharar,1
+35A,37/38,1
+35A,P.B. Barrier,1
+35A,Jalvayu Tower,1
+35A,Sec-124/125,1
+35A,Sector-123,1
+35B,Atawa,1
+35B,MundiKharar,1
+37,Sec 18mkt,1
+37,Sec 19mkt,1
+37,28mkt,1
+37,Rly. Stn.,1
+37,H/Board,1
+38B,Sec-10A/11B,1
+38B,Sec-10D/11C,1
+38B,Sec-16/10 GMCH,1
+38B,Sec-16/17-Matka Chowk,1
+38B,Sec-16/17 MC Office,1
+38B,Sec-22/23,1
+38B,Kisan Bhawan,1
+38B,Sec-35/36,1
+38B,Sec-43/42,1
+38B,Sec-51/52,1
+38B,YPS(UT,1
+38B,Border),1
+38B,Sec-61/62,1
+38B,Sec-70/69,1
+38B,Sec-68/79,1
+38B,Sec-67/80,1
+38B,Sec-66/81 (IISER),1
+38B,Sec-82,1
+38B,Aero City Block-D,1
+38B,Manav International School,1
+38B,Amity University,1
+38B,Sec-82A,1
+38B,HDFC head office chowk,1
+38B,Plaksha University,1
+38B,R.B.P. City,1
+38B,Sunny-Gilco Park,1
+38B,T-Point Flyover Derri,1
+39,Mohali Ph-11,1
+39,Mohali Rly. Stn.,1
+39,Indl. Area Ph-9,1
+39,Mohali Sec-66/67 Mkts,1
+39,67/68,1
+39,68 outer,1
+39,69/68,1
+39,Kumbra,1
+39,Edu.Board Pb.,1
+39,Fortis,1
+39,Ph-7 Light Point,1
+39,Chawla Chowk,1
+39,Sec-60/61,1
+39,52/61,1
+39,YPS Chowk,1
+40,Khudalahora,1
+40,Manakpur,1
+40,Kubheri,1
+71,K.Bhawan,1
+71,27 Mkts,1
+71,M/M Complex,1
+71,M/M Town,1
+71,Swastik Vihar,1
+71,Saketri,1
+71,Saketri (Kaimbwala),1
+79,Sec-20/30,1
+79,32 Hospital,1
+79,Dayalpura,1
+79,Chhatbir Zoo,1
+80,20mkt,1
+80,30mkt,1
+80,29mkt,1
+85,Piccdly Chowk,1
+101,Sec34/35,1
+101,52/51,1
+101,61/62,1
+101,68/80,1
+101,81/82,1
+101,Manoli,1
+123A,U.T. Border,1
+123A,64mkt,1
+123A,65mkt,1
+123A,Mohali R/Station Ph-11,1
+202,K.C,1
+202,U.T.Sectt,1
+202,Pb/HR.Sectt,1
+202,PB Civil Sectt (High Court),1
+551,Sec-44/43,1
+551,JW Marriott,1
+551,21/21 Aroma,1
+551,16/10 General Hospital,1
+551,NEW OPD,1
+551,PGI (Express),1
+206,TPT,1
+212,Bhankarpur,1
+213,Dc.office/Lakhnour,1
+213,Sec-69/68,1
+213,Fortis/PSEB,1
+213,Sec-62/63,1
+213,Sec-51,1
+213,Sec-44,1
+213,Sec-45,1
+213,Sec-32/31(Hospital),1
+213,Singhpura,1
+213,Bhankharpur,1
+214,KhudaLahora,1
+214,Sec10/16,1
+214,Indl. area/Ph.1,1
+214,Rly. Station,1
+214,Rly. Crossing,1
+214,H/B.Chowk,1
+214,M.Hospital,1
+214,old P.Kula,1
+219,HalloMajra,1
+219,Naba Sahib,1
+219,Joshi Farm,1
+219,Victoria Enclave,1
+219,Bhabhat,1
+240,20,1
+240,30,1
+240,29 mkts,1
+240,Mata Mansa Devi,1
+216,Sec-20/33,1
+241,Sec-52/53,1
+241,Sec-52/61,1
+241,Sec-51/50,1
+241,49/50,1
+241,50/45,1
+241,44C/45D Gaushala,1
+241,45mkt,1
+241,32/33,1
+241,TPT Chowk,1
+241,Indl.Area Ph-1,1
+25/25A,Khudalahorra,1
+25/25A,Khera,1
+25/25A,Jandemajra,1
+35D,Sec-16/23,1
+35D,24/15 Indra Holiday Home,1
+35D,24/25 Light Point,1
+35D,24/25 Bhaskar Chowk,1
+35D,24/37 Batra Theater,1
+35D,40/55,1
+35D,39/56,1
+35D,ISBT-Mohali,1
+35D,Balongii,1
+35D,Desumajra/Nijjer Chowk,1
+35D,Mundi Kharar/Gilco,1
+35D,Bansawali Chungi,1
+35D,Kila Chungi,1
+242,Derri,1
+242,Saneta,1
+242,SCL(Light Point),1
+242,IVY Hospital,1
+242,Ph-5/3 light point Madanpur,1
+242,Furniture Chowk,1
+242,Sector-42 College,1
+242,16 Hospital,1
+76,Kurali,1
+31,Omex Tower,1
+31,Risort Lake,1
+31,Ambika Florance,1
+31,Omex Phase-1/2,1
+31,Ranimajra,1
+31,Sainimajra,1
+31,Bansepur/Omex Cassia,1
+31,Tidan Cricket Stadium,1
+31,Togan,1
+31,Milk Colony,1
+31,Dhanas Bridge,1
+31,Sec-38/25 Light Point,1
+31,Sec-38/25 Dental College,1
+31,Sec-24/25 Light Point,1
+31,Pb. Univ.,1
+31,Sec10A/11B,1
+31,Sec-10/11 Mkt,1
+31,Sec-10D/11,1
+31,7/26,1
+31,SGGS-26 College,1
+31,Police Line-Bapu Dham,1
+31,Ind.Phase-I,1
+31,Manimajra/Fun Republic,1
+38AB,51/52,1
+38AB,YPS Cwk,1
+38AB,61/61,1
+38AB,70/69 Sohana,1
+38AB,68/79,1
+38AB,67/80,1
+38AB,66/81,1
+38AB,ISSER,1
+38AB,Sec-66/82,1
+38AB,Mohali Airport Chowk,1
+38AB,Shafipur (Flyover),1
+38AB,Jhurheri,1
+38AB,New Airport,1

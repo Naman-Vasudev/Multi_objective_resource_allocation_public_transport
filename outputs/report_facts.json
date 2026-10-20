@@ -1,0 +1,564 @@
+{
+ "data": {
+  "routes": 68,
+  "buses": 389,
+  "km": 1662.0,
+  "stops": 649,
+  "loops": 8,
+  "pdf_ok": 68,
+  "hubs": 10,
+  "overnight": 3,
+  "mv_mismatch": 17
+ },
+ "calib": {
+  "S1_22_0": {
+   "N": 171.9,
+   "U": 44.2,
+   "short": 0,
+   "over": 57
+  },
+  "S2_22_0": {
+   "N": 309.9,
+   "U": 79.7,
+   "short": 2,
+   "over": 33
+  },
+  "S2_22_10": {
+   "N": 340.9,
+   "U": 87.6,
+   "short": 3,
+   "over": 13
+  },
+  "S3_22_10": {
+   "N": 375.0,
+   "U": 96.4,
+   "short": 3,
+   "over": 13
+  },
+  "S2_18_0": {
+   "N": 378.7,
+   "U": 97.4,
+   "short": 23,
+   "over": 2
+  },
+  "v_implied_noSpare": 19.3,
+  "v_implied_spare": 21.2
+ },
+ "demand": {
+  "daily_boardings": 81326,
+  "theta": 1.8,
+  "multipliers": {
+   "AM": 1.4,
+   "Midday": 0.8,
+   "PM": 1.3
+  },
+  "lo": 0.2,
+  "hi": 0.35,
+  "active": {
+   "AM": 64,
+   "Midday": 65,
+   "PM": 62
+  },
+  "cv": {
+   "AM": 0.39,
+   "Midday": 0.41,
+   "PM": 0.38
+  },
+  "mean_M": {
+   "AM": 70.0,
+   "Midday": 39.4,
+   "PM": 65.9
+  },
+  "overloaded": {
+   "AM": 11,
+   "Midday": 3,
+   "PM": 10
+  },
+  "meanLF": {
+   "AM": 0.63,
+   "Midday": 0.38,
+   "PM": 0.59
+  }
+ },
+ "model": {
+  "B_eff": 357,
+  "spare": 0.08,
+  "C": 60,
+  "alpha": 0.5,
+  "pairs": 191,
+  "n_vars": 651,
+  "n_cons": 576,
+  "menu": [
+   10,
+   12,
+   15,
+   20,
+   25,
+   30,
+   40,
+   45,
+   60,
+   90
+  ],
+  "c1_excess": {
+   "AM": 27,
+   "Midday": 28,
+   "PM": 23
+  },
+  "c2_routes": [
+   "25/25A",
+   "40",
+   "76"
+  ],
+  "infeasible_s10": "352 > 350"
+ },
+ "gp": {
+  "kappa1": 0.04,
+  "kappa3": 0.03,
+  "runs": 50,
+  "rows": [
+   {
+    "name": "P-PASSENGER",
+    "dZ1": -4.0,
+    "dZ2": -2.5,
+    "dZ3": -29.6,
+    "eq": 100.0,
+    "met": 0
+   },
+   {
+    "name": "P-OPERATOR",
+    "dZ1": -3.8,
+    "dZ2": -3.0,
+    "dZ3": -29.6,
+    "eq": 100.0,
+    "met": 1
+   },
+   {
+    "name": "P-EQUITY",
+    "dZ1": -4.0,
+    "dZ2": -3.1,
+    "dZ3": -26.4,
+    "eq": 0.0,
+    "met": 3
+   },
+   {
+    "name": "P-BALANCED",
+    "dZ1": -4.1,
+    "dZ2": -3.1,
+    "dZ3": -26.4,
+    "eq": 0.0,
+    "met": 3
+   },
+   {
+    "name": "CHEBYSHEV",
+    "dZ1": -3.8,
+    "dZ2": -3.0,
+    "dZ3": -29.6,
+    "eq": 100.0,
+    "met": 0
+   }
+  ],
+  "published_same": true,
+  "published": {
+   "dZ1": 0.8,
+   "dZ2": -2.3,
+   "dZ3": -0.6
+  }
+ },
+ "pareto": {
+  "grid": 20,
+  "optimal": 298,
+  "infeasible": 19,
+  "skipped": 83,
+  "exact_points": 46,
+  "hv_exact": 0.946,
+  "t_exact": 60.0,
+  "hv_seed_min": 0.964,
+  "hv_seed_max": 0.968,
+  "hv_union": 0.98,
+  "gd": 0.049,
+  "igd": 0.032,
+  "nsga_points": "187-194",
+  "t_seed": 24.0,
+  "dominated": 0,
+  "evals": 60200,
+  "gp_on_front": [
+   "P-PASSENGER"
+  ],
+  "gp_dist": {
+   "P-PASSENGER": 0.0,
+   "P-OPERATOR": 0.008,
+   "P-EQUITY": 0.07,
+   "P-BALANCED": 0.068,
+   "CHEBYSHEV": 0.005,
+   "BASELINE (published)": 1.093
+  }
+ },
+ "sim": {
+  "N": 2000,
+  "seed": 2026,
+  "cv": 0.3,
+  "rows": {
+   "Baseline": {
+    "wait": 17.94,
+    "over": 2249.0,
+    "vkm": 79478.0,
+    "fleet": 385,
+    "eq": 210.0,
+    "p5": 65.6,
+    "gini": 0.402
+   },
+   "Baseline (peak f_max)": {
+    "wait": 17.94,
+    "over": 2230.0,
+    "vkm": 79465.0,
+    "fleet": 385,
+    "eq": 210.0,
+    "p5": 62.6,
+    "gini": 0.402
+   },
+   "P-PASSENGER (α=0.5)": {
+    "wait": 17.3,
+    "over": 1535.0,
+    "vkm": 77466.0,
+    "fleet": 357,
+    "eq": 100.0,
+    "p5": 1.5,
+    "gini": 0.373
+   },
+   "P-OPERATOR (α=0.5)": {
+    "wait": 17.35,
+    "over": 1535.0,
+    "vkm": 77088.0,
+    "fleet": 357,
+    "eq": 100.0,
+    "p5": 1.5,
+    "gini": 0.373
+   },
+   "P-EQUITY (α=0.5)": {
+    "wait": 17.34,
+    "over": 1586.0,
+    "vkm": 77041.0,
+    "fleet": 357,
+    "eq": 0.0,
+    "p5": 2.9,
+    "gini": 0.371
+   },
+   "P-BALANCED (α=0.5)": {
+    "wait": 17.34,
+    "over": 1586.0,
+    "vkm": 77045.0,
+    "fleet": 357,
+    "eq": 0.0,
+    "p5": 2.9,
+    "gini": 0.372
+   },
+   "P-PASSENGER (α=0)": {
+    "wait": 17.38,
+    "over": 1638.0,
+    "vkm": 77724.0,
+    "fleet": 357,
+    "eq": 140.0,
+    "p5": 2.9,
+    "gini": 0.379
+   },
+   "P-OPERATOR (α=0)": {
+    "wait": 17.47,
+    "over": 1638.0,
+    "vkm": 77082.0,
+    "fleet": 357,
+    "eq": 140.0,
+    "p5": 2.9,
+    "gini": 0.377
+   },
+   "P-EQUITY (α=0)": {
+    "wait": 17.32,
+    "over": 1583.0,
+    "vkm": 76993.0,
+    "fleet": 357,
+    "eq": 0.0,
+    "p5": 2.7,
+    "gini": 0.369
+   },
+   "P-BALANCED (α=0)": {
+    "wait": 17.32,
+    "over": 1583.0,
+    "vkm": 76975.0,
+    "fleet": 357,
+    "eq": 0.0,
+    "p5": 2.7,
+    "gini": 0.37
+   },
+   "P-BALANCED ROBUST (α=0, spreads ×1.5)": {
+    "wait": 17.35,
+    "over": 1697.0,
+    "vkm": 76881.0,
+    "fleet": 357,
+    "eq": 0.0,
+    "p5": 6.6,
+    "gini": 0.372
+   },
+   "KNEE (Pareto front)": {
+    "wait": 17.68,
+    "over": 1553.0,
+    "vkm": 75564.0,
+    "fleet": 357,
+    "eq": 30.0,
+    "p5": 2.9,
+    "gini": 0.366
+   }
+  },
+  "headline": {
+   "policy": "P-BALANCED (α=0.5)",
+   "vs_mid": {
+    "wait": -3.3,
+    "over": -29.5,
+    "vkm": -3.1,
+    "fleet": -7.3
+   },
+   "vs_peak": {
+    "wait": -3.3,
+    "over": -28.9,
+    "vkm": -3.0,
+    "fleet": -7.3
+   }
+  }
+ },
+ "oos": {
+  "Baseline": {
+   "ins": 65.6,
+   "out": 70.3
+  },
+  "Baseline (peak f_max)": {
+   "ins": 62.6,
+   "out": 69.2
+  },
+  "KNEE (Pareto front)": {
+   "ins": 2.9,
+   "out": 29.1
+  },
+  "P-BALANCED (α=0)": {
+   "ins": 2.7,
+   "out": 28.2
+  },
+  "P-BALANCED (α=0.5)": {
+   "ins": 2.9,
+   "out": 28.8
+  },
+  "P-BALANCED ROBUST (α=0, spreads ×1.5)": {
+   "ins": 6.6,
+   "out": 33.4
+  },
+  "P-EQUITY (α=0)": {
+   "ins": 2.7,
+   "out": 28.2
+  },
+  "P-EQUITY (α=0.5)": {
+   "ins": 2.9,
+   "out": 28.8
+  },
+  "P-OPERATOR (α=0)": {
+   "ins": 2.9,
+   "out": 28.0
+  },
+  "P-OPERATOR (α=0.5)": {
+   "ins": 1.5,
+   "out": 24.1
+  },
+  "P-PASSENGER (α=0)": {
+   "ins": 2.9,
+   "out": 28.0
+  },
+  "P-PASSENGER (α=0.5)": {
+   "ins": 1.5,
+   "out": 24.1
+  }
+ },
+ "sens": [
+  {
+   "factor": "demand level",
+   "value": 0.8,
+   "feasible": true,
+   "imp": 3.25,
+   "B_eff": 357
+  },
+  {
+   "factor": "demand level",
+   "value": 0.9,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "demand level",
+   "value": 1.0,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "demand level",
+   "value": 1.1,
+   "feasible": true,
+   "imp": 3.37,
+   "B_eff": 357
+  },
+  {
+   "factor": "demand level",
+   "value": 1.2,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "capacity C",
+   "value": 50.0,
+   "feasible": true,
+   "imp": 3.36,
+   "B_eff": 357
+  },
+  {
+   "factor": "capacity C",
+   "value": 60.0,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "capacity C",
+   "value": 70.0,
+   "feasible": true,
+   "imp": 3.3,
+   "B_eff": 357
+  },
+  {
+   "factor": "capacity C",
+   "value": 80.0,
+   "feasible": true,
+   "imp": 3.25,
+   "B_eff": 357
+  },
+  {
+   "factor": "speed v",
+   "value": 18.0,
+   "feasible": false,
+   "imp": null,
+   "B_eff": 357
+  },
+  {
+   "factor": "speed v",
+   "value": 22.0,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "speed v",
+   "value": 26.0,
+   "feasible": true,
+   "imp": 7.55,
+   "B_eff": 357
+  },
+  {
+   "factor": "spare ratio s",
+   "value": 0.0,
+   "feasible": true,
+   "imp": 3.69,
+   "B_eff": 389
+  },
+  {
+   "factor": "spare ratio s",
+   "value": 0.08,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "spare ratio s",
+   "value": 0.1,
+   "feasible": false,
+   "imp": null,
+   "B_eff": 350
+  },
+  {
+   "factor": "spare ratio s",
+   "value": 0.2,
+   "feasible": false,
+   "imp": null,
+   "B_eff": 311
+  },
+  {
+   "factor": "layover",
+   "value": 0.05,
+   "feasible": true,
+   "imp": 5.91,
+   "B_eff": 357
+  },
+  {
+   "factor": "layover",
+   "value": 0.1,
+   "feasible": true,
+   "imp": 3.31,
+   "B_eff": 357
+  },
+  {
+   "factor": "layover",
+   "value": 0.15,
+   "feasible": false,
+   "imp": null,
+   "B_eff": 357
+  }
+ ],
+ "alpha": [
+  {
+   "alpha": 0.0,
+   "p5": 2.7,
+   "vkm": 76975.0,
+   "wait": 17.32
+  },
+  {
+   "alpha": 0.25,
+   "p5": 2.7,
+   "vkm": 77003.0,
+   "wait": 17.32
+  },
+  {
+   "alpha": 0.5,
+   "p5": 2.9,
+   "vkm": 77045.0,
+   "wait": 17.34
+  },
+  {
+   "alpha": 0.75,
+   "p5": 3.1,
+   "vkm": 77084.0,
+   "wait": 17.35
+  },
+  {
+   "alpha": 1.0,
+   "p5": 3.1,
+   "vkm": 77084.0,
+   "wait": 17.35
+  }
+ ],
+ "fleet": [
+  {
+   "cut": 0.0,
+   "B_eff": 357,
+   "feasible": true,
+   "imp": 3.31
+  },
+  {
+   "cut": 0.05,
+   "B_eff": 339,
+   "feasible": false,
+   "imp": null
+  },
+  {
+   "cut": 0.1,
+   "B_eff": 321,
+   "feasible": false,
+   "imp": null
+  }
+ ]
+}

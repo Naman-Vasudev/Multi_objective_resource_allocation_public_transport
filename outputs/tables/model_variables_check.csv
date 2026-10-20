@@ -1,0 +1,18 @@
+route_no,field,excel,ours,note,abs_diff,explanation
+213,f_min,1.09,1.0909090909090908,value mismatch,0.0009090909090907484,typed value rounded to 2 dp
+214,f_min,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+23B,f_min,0.67,0.6666666666666666,value mismatch,0.0033333333333334103,typed value rounded to 2 dp
+24C,f_min,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp
+26,f_min,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+79,f_min,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp
+214,f_max,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+23B,f_max,0.67,0.6666666666666666,value mismatch,0.0033333333333334103,typed value rounded to 2 dp
+24C,f_max,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp
+26,f_max,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+79,f_max,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp
+213,f_mid,1.145,1.1454545454545455,value mismatch,0.00045454545454548523,typed value rounded to 2 dp
+214,f_mid,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+23B,f_mid,0.67,0.6666666666666666,value mismatch,0.0033333333333334103,typed value rounded to 2 dp
+24C,f_mid,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp
+26,f_mid,1.71,1.7142857142857142,value mismatch,0.004285714285714226,typed value rounded to 2 dp
+79,f_mid,1.33,1.3333333333333333,value mismatch,0.0033333333333331883,typed value rounded to 2 dp

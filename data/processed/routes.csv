@@ -1,0 +1,69 @@
+route_no,origin,destination,is_loop,first_departure,last_departure,span_hours,headway_min_lo,headway_min_hi,f_min,f_max,f_mid,d_r_km,x_base,n_via_stops,service_type,overnight,active_am,active_midday,active_pm
+1,New Maloya Colony,Manimajra,False,06:10,18:40,12.5,20.0,20.0,3.0,3.0,3.0,24.0,8,18,Day service,False,1,1,1
+2A,Manimajra,Manimajra,True,05:40,20:30,14.8333333333333,20.0,25.0,2.4,3.0,2.7,38.3,6,31,Day service,False,1,1,1
+2C,Mani Majra,Mani Majra,True,05:30,20:20,14.8333333333333,20.0,25.0,2.4,3.0,2.7,38.3,6,32,Day service,False,1,1,1
+4A,ISBT-43,ISBT-43,True,06:45,19:40,12.9166666666667,25.0,25.0,2.4,2.4,2.4,32.5,4,24,Day service,False,1,1,1
+4C,ISBT-43,ISBT-43,True,07:25,20:20,12.9166666666667,25.0,25.0,2.4,2.4,2.4,32.5,4,25,Day service,False,1,1,1
+5A,RamDarbar,RamDarbar,True,05:25,21:00,15.5833333333333,15.0,30.0,2.0,4.0,3.0,38.4,8,29,Day service,False,1,1,1
+5C,Ram Darbar,Ram Darbar,True,05:50,21:25,15.5833333333333,15.0,30.0,2.0,4.0,3.0,38.4,8,28,Day service,False,1,1,1
+6,New Maloya Colony,Raipur Kalan,False,05:00,18:40,13.6666666666667,30.0,30.0,2.0,2.0,2.0,25.5,6,18,Day service,False,1,1,1
+7,New Maloya Colony,Ramdarbar,False,05:45,18:40,12.9166666666667,25.0,25.0,2.4,2.4,2.4,21.5,6,18,Day service,False,1,1,1
+9A,Mansa Devi,Mansa Devi,True,06:10,20:30,14.3333333333333,30.0,30.0,2.0,2.0,2.0,38.3,4,36,Day service,False,1,1,1
+9C,Mansa Devi,Mansa Devi,True,05:40,20:45,15.0833333333333,30.0,30.0,2.0,2.0,2.0,38.3,4,37,Day service,False,1,1,1
+11A,Rock Garden,Sukhna Lake,False,10:10,15:50,5.66666666666667,30.0,30.0,2.0,2.0,2.0,3.0,1,1,Tourist link (short),False,0,1,0
+23B,ISBT-17,Badi Karoran,False,06:15,20:30,14.25,90.0,90.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,11.0,1,11,Day service,False,1,1,1
+28A,ISBT-43,Rani Majra,False,07:10,19:15,12.0833333333333,80.0,80.0,0.75,0.75,0.75,23.0,2,16,Day service,False,1,1,1
+28B,ISBT-43,Eco City Block-2 (Takipur),False,05:50,21:00,15.1666666666667,30.0,30.0,2.0,2.0,2.0,23.0,5,14,Day service,False,1,1,1
+239,ISBT-43,Lake,False,07:20,20:15,12.9166666666667,20.0,20.0,3.0,3.0,3.0,14.0,5,9,Day service,False,1,1,1
+70A,Jayanti Majri,Mansa Devi,False,05:30,19:45,14.25,60.0,60.0,1.0,1.0,1.0,27.5,3,13,Day service,False,1,1,1
+2F,PGI,Platinum Homes,False,05:40,18:50,13.1666666666667,20.0,25.0,2.4,3.0,2.7,31.0,10,25,Day service,False,1,1,1
+2G,PGI,Panchkula Bus Stand,False,08:30,14:20,5.83333333333333,50.0,50.0,1.2,1.2,1.2,13.0,2,10,Day service,False,1,1,0
+8,Mohali Ph-XI,PGI,False,06:05,20:50,14.75,75.0,75.0,0.8,0.8,0.8,21.0,2,15,Day service,False,1,1,1
+10,ISBT-43,Manimajra,False,05:30,18:45,13.25,15.0,20.0,3.0,4.0,3.5,17.5,8,12,Day service,False,1,1,1
+11,Railway Station,CIVIL SECTT.,False,08:35,16:40,8.08333333333333,60.0,60.0,1.0,1.0,1.0,15.0,2,8,Day service,False,1,1,1
+17,ISBT-43,Behlana,False,05:40,20:40,15.0,20.0,20.0,3.0,3.0,3.0,15.5,6,13,Day service,False,1,1,1
+18,ISBT-43,Kaimbwala,False,06:10,20:15,14.0833333333333,30.0,30.0,2.0,2.0,2.0,15.5,4,13,Day service,False,1,1,1
+14,ISBT-43,Mansa Devi,False,08:30,14:30,6.0,60.0,60.0,1.0,1.0,1.0,17.0,2,9,Day service,False,1,1,0
+20,CHD,Kharar,False,05:30,20:45,15.25,15.0,30.0,2.0,4.0,3.0,25.6,9,13,Day service,False,1,1,1
+20A,CHD,Kharar,False,06:15,20:15,14.0,60.0,60.0,1.0,1.0,1.0,25.6,3,16,Day service,False,1,1,1
+22,ISBT-43,IT Park,False,05:40,20:30,14.8333333333333,20.0,20.0,3.0,3.0,3.0,19.6,7,15,Day service,False,1,1,1
+23A,ISBT-43,Khuda Ali Sher,False,05:30,20:40,15.1666666666667,20.0,20.0,3.0,3.0,3.0,12.8,6,11,Day service,False,1,1,1
+24A,ISBT-43,PGI,False,22:00,04:40,6.66666666666667,80.0,80.0,0.75,0.75,0.75,9.8,1,6,Night service,True,0,0,0
+24C,ISBT-17,ISBT-43,False,22:15,05:20,7.08333333333333,45.0,45.0,1.3333333333333333,1.3333333333333333,1.3333333333333333,5.7,1,5,Night service,True,0,0,0
+26,Mullanpur Eco City,Dhakoli,False,06:00,19:25,13.4166666666667,35.0,35.0,1.7142857142857142,1.7142857142857142,1.7142857142857142,32.0,6,19,Day service,False,1,1,1
+28,New Maloya Colony,Manimajra,False,06:15,20:00,13.75,30.0,30.0,2.0,2.0,2.0,26.0,6,17,Day service,False,1,1,1
+30,ISBT-43,Nada Sahib,False,06:05,19:55,13.8333333333333,25.0,30.0,2.0,2.4,2.2,21.5,6,18,Day service,False,1,1,1
+30A,ISBT-43,Cantonment,False,05:10,21:00,15.8333333333333,25.0,25.0,2.4,2.4,2.4,21.1,6,20,Day service,False,1,1,1
+30B,ISBT-43,Ramgarh,False,06:30,19:00,12.5,25.0,25.0,2.4,2.4,2.4,31.0,8,19,Day service,False,1,1,1
+32,PGI,Derabassi,False,05:00,20:55,15.9166666666667,15.0,30.0,2.0,4.0,3.0,37.7,14,16,Day service,False,1,1,1
+32B,PGI,Ramgarh,False,06:05,19:45,13.6666666666667,20.0,20.0,3.0,3.0,3.0,31.0,10,25,Day service,False,1,1,1
+34,PGI,Derabassi,False,06:15,19:25,13.1666666666667,20.0,20.0,3.0,3.0,3.0,28.0,9,15,Day service,False,1,1,1
+35,ISBT-17,Kharar,False,05:40,20:10,14.5,20.0,20.0,3.0,3.0,3.0,18.3,7,14,Day service,False,1,1,1
+35A,ISBT-17,Sector-123,False,06:00,20:40,14.6666666666667,40.0,40.0,1.5,1.5,1.5,23.0,4,16,Day service,False,1,1,1
+35B,ISBT-17,Kharar,False,05:50,21:30,15.6666666666667,20.0,20.0,3.0,3.0,3.0,19.2,7,13,Day service,False,1,1,1
+37,ISBT-43,Manimajra,False,21:10,03:50,6.66666666666667,50.0,50.0,1.2,1.2,1.2,32.0,2,13,Night service,True,0,0,0
+38B,PGI,Tangori,False,05:20,19:35,14.25,40.0,40.0,1.5,1.5,1.5,32.0,5,34,Day service,False,1,1,1
+39,Mohali Ph-11,PGI,False,06:35,20:55,14.3333333333333,20.0,20.0,3.0,3.0,3.0,27.5,9,24,Day service,False,1,1,1
+40,ISBT-17,Khizrabad,False,05:00,20:15,15.25,60.0,60.0,1.0,1.0,1.0,30.8,3,13,Day service,False,1,1,1
+71,ISBT-43,Saketri (Kaimbwala),False,07:30,19:30,12.0,30.0,30.0,2.0,2.0,2.0,24.0,6,16,Day service,False,1,1,1
+79,PGI,Chhatbir Zoo,False,07:00,18:15,11.25,45.0,45.0,1.3333333333333333,1.3333333333333333,1.3333333333333333,27.9,4,14,Day service,False,1,1,1
+80,PGI,Zirakpur,False,06:30,20:15,13.75,30.0,30.0,2.0,2.0,2.0,20.0,5,14,Day service,False,1,1,1
+85,ISBT-43,Zirakpur,False,06:15,19:45,13.5,30.0,30.0,2.0,2.0,2.0,19.5,5,16,Day service,False,1,1,1
+101,PGI,Manoli,False,07:20,17:40,10.3333333333333,80.0,80.0,0.75,0.75,0.75,24.0,2,15,Day service,False,1,1,1
+123A,PGI,Mohali R/Station Ph-11,False,06:25,19:40,13.25,30.0,30.0,2.0,2.0,2.0,19.8,5,15,Day service,False,1,1,1
+202,ISBT-43,PB Civil Sectt (High Court),False,07:15,20:00,12.75,15.0,15.0,4.0,4.0,4.0,13.0,6,11,Day service,False,1,1,1
+551,ISBT-43,PGI (Express),False,05:30,19:45,14.25,10.0,10.0,6.0,6.0,6.0,11.0,9,10,Express,False,1,1,1
+206,ISBT-43,IT Park,False,07:10,20:35,13.4166666666667,10.0,15.0,4.0,6.0,5.0,18.1,10,15,Day service,False,1,1,1
+212,PGI,Derabassi,False,06:10,19:50,13.6666666666667,20.0,20.0,3.0,3.0,3.0,26.5,8,14,Day service,False,1,1,1
+213,Landran,Derabassi,False,07:00,19:20,12.3333333333333,50.0,55.0,1.0909090909090908,1.2,1.1454545454545455,34.0,4,17,Day service,False,1,1,1
+214,Mullanpur Eco City,Nada Sahib,False,05:50,19:15,13.4166666666667,35.0,35.0,1.7142857142857142,1.7142857142857142,1.7142857142857142,31.0,6,20,Day service,False,1,1,1
+219,Dhanas,Bhabhat,False,06:30,19:30,13.0,30.0,30.0,2.0,2.0,2.0,27.6,6,18,Day service,False,1,1,1
+240,ISBT-43,Mata Mansa Devi,False,05:40,21:30,15.8333333333333,25.0,25.0,2.4,2.4,2.4,20.4,6,18,Day service,False,1,1,1
+216,ISBT-43,Derabassi,False,05:00,21:20,16.3333333333333,20.0,20.0,3.0,3.0,3.0,26.0,8,15,Fixed departures,False,1,1,1
+241,ISBT-43,Mansa Devi,False,05:00,21:20,16.3333333333333,20.0,20.0,3.0,3.0,3.0,24.5,8,23,Fixed departures,False,1,1,1
+25/25A,ISBT-17,Khizrabad,False,05:15,21:10,15.9166666666667,20.0,40.0,1.5,3.0,2.25,26.8,5,12,Day service,False,1,1,1
+35D,ISBT-17,Kharar,False,05:55,20:45,14.8333333333333,10.0,10.0,6.0,6.0,6.0,18.7,12,19,Day service,False,1,1,1
+242,PGI,Tangori,False,06:15,19:00,12.75,15.0,20.0,3.0,4.0,3.5,36.0,13,20,Day service,False,1,1,1
+76,ISBT-17,Kurali,False,05:15,20:15,15.0,30.0,40.0,1.5,2.0,1.75,31.0,4,2,Day service,False,1,1,1
+31,Omex Tower,Mansa Devi,False,06:10,21:10,15.0,80.0,80.0,0.75,0.75,0.75,37.0,3,36,Day service,False,1,1,1
+38AB,ISBT-17,New Airport,False,00:40,23:30,22.8333333333333,20.0,25.0,2.4,3.0,2.7,22.0,8,16,Near 24-hour service,False,1,1,1
