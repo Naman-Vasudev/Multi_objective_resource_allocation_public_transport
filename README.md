@@ -23,7 +23,7 @@ This repository is a fully reproducible, open-source optimization engine for bus
 3. **Handles demand uncertainty** with triangular fuzzy numbers and α-cut capacity rules (L = 0.80 M, U = 1.35 M).
 4. **Applies goal programming** (preemptive lexicographic, weighted, Chebyshev) for operator-defined priority scenarios.
 5. **Computes the exact Pareto front** via AUGMECON (augmented ε-constraint MILP), yielding 46 strictly efficient, non-dominated schedules in 60 s.
-6. **Stress-tests** every schedule by Monte Carlo simulation (2 000 synthetic demand draws) and one-at-a-time sensitivity analysis.
+6. **Stress-tests** every schedule by one-at-a-time sensitivity analysis across speed, fleet size, capacity, α, and spare ratio.
 
 ---
 
@@ -119,28 +119,6 @@ The exact multi-objective trade-off surface is mapped using the Augmented ε-Con
 - **Published CTU baseline:** strictly dominated across all three objectives and infeasible (385 > 357 buses)
 
 Full metrics in [`outputs/pareto_report.md`](outputs/pareto_report.md).
-
----
-
-## Monte Carlo Simulation
-
-<p align="center">
-  <img src="outputs/figures/sim_wait_vs_vkm.png" alt="Simulation: waiting vs vehicle-km across 2000 demand draws" width="720"/>
-</p>
-
-<p align="center">
-  <img src="outputs/figures/sim_tradeoff_bars.png" alt="Simulation: trade-off bars by schedule" width="720"/>
-</p>
-
-<p align="center">
-  <img src="outputs/figures/sim_overflow_distribution.png" alt="Simulation: overflow distribution" width="650"/>
-</p>
-
-<p align="center">
-  <img src="outputs/figures/sim_route_p95_LF.png" alt="Simulation: P95 load factor by route" width="750"/>
-</p>
-
-2 000 synthetic demand days with gamma-distributed headways (CV = 0.3). Charts show stochastic waiting vs vehicle-km trade-offs, per-schedule overflow distributions, and P95 load factors by route.
 
 ---
 
