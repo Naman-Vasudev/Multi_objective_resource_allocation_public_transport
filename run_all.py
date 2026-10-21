@@ -5,7 +5,7 @@ Stages implemented so far:
     2. periods, synthetic demand, TFNs       (src/stage2.py)
     3. corrected MILP, baseline metrics      (src/stage3.py)
     4. goal programming with priorities      (src/stage4.py, config/gp_scenarios.json)
-    5. Pareto front: AUGMECON + NSGA-II      (src/stage5.py, src/pareto.py; about 2 min)
+    5. Pareto front: AUGMECON     (src/stage5.py, src/pareto.py; about 2 min)
     6. simulation and sensitivity            (src/stage6.py, src/simulate.py)
 
 `python run_all.py --skip-pareto` reuses saved Stage 5 fronts (faster iteration; the full run regenerates them).

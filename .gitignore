@@ -18,8 +18,18 @@ Thumbs.db
 .vscode/
 *.swp
 
-# Heavy raw audio/temp
+# Documents and study material — not tracked in code repo
+*.pdf
+*.pptx
+*.docx
+*.mkv
+*.mp4
+!data/raw/*.xlsx
+study_guide/
+deliverables_build/
+scratch/
+
+# Heavy output temp files
 *.mp3
 *.m4a
-video/
 *.tmp
